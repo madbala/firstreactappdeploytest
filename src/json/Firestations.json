@@ -1,0 +1,332 @@
+{
+  "type": "FeatureCollection",
+  "name": "Firestations",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1,
+        "NAME": "FIRE STATION 20",
+        "ADDRESS": "303 S OAKRIDGE AV",
+        "CITY": "GREEN COVE SPRINGS",
+        "ZIPCODE": "32043",
+        "OPERATING": "CLAY COUNTY",
+        "OP_CLASS": "COUNTY",
+        "YR_BUILT": 1984,
+        "SERVICES": "FIRE",
+        "Fire": "Career",
+        "Rescue": "NO",
+        "App_Count": 4,
+        "StationNum": "20",
+        "GlobalID": "{E2433EB7-F89D-4086-A61A-E8B9458ADC71}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.696240838156555, 29.985398344103633]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3,
+        "NAME": "FIRE STATION 22",
+        "ADDRESS": "5995 PINE AV",
+        "CITY": "ORANGE PARK",
+        "ZIPCODE": "32008",
+        "OPERATING": "CLAY COUNTY",
+        "OP_CLASS": "COUNTY",
+        "YR_BUILT": 1980,
+        "SERVICES": "FIRE / RESCUE",
+        "Fire": "Career",
+        "Rescue": "YES",
+        "App_Count": 5,
+        "StationNum": "22",
+        "GlobalID": "{1B81C53B-2A2E-40C9-AAA8-AC00E2CA9CEA}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.697792588656853, 30.086314949003256]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 4,
+        "NAME": "FIRE STATION 14",
+        "ADDRESS": "4003 EVERETT AV",
+        "CITY": "MIDDLEBURG",
+        "ZIPCODE": "32068",
+        "OPERATING": "CLAY COUNTY",
+        "OP_CLASS": "COUNTY",
+        "YR_BUILT": 1965,
+        "SERVICES": "FIRE",
+        "Fire": "Career",
+        "Rescue": "NO",
+        "App_Count": 6,
+        "StationNum": "14",
+        "GlobalID": "{A591FA17-EC81-4A33-9712-AC4545DEDE8D}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.867259486926159, 30.068409870635559]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 5,
+        "NAME": "FIRE STATION 15",
+        "ADDRESS": "290 BRANSCOMB RD",
+        "CITY": "GREEN COVE SPRINGS",
+        "ZIPCODE": "32043",
+        "OPERATING": "CLAY COUNTY",
+        "OP_CLASS": "COUNTY",
+        "YR_BUILT": 1985,
+        "SERVICES": "FIRE / RESCUE",
+        "Fire": "Career",
+        "Rescue": "YES",
+        "App_Count": 5,
+        "StationNum": "15",
+        "GlobalID": "{1FC80682-54DE-483E-BEAD-09C9499D1E8D}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.818188873652218, 30.048730527683404]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 6,
+        "NAME": "FIRE STATION 24",
+        "ADDRESS": "5105 SWEAT RD",
+        "CITY": "GREEN COVE SPRINGS",
+        "ZIPCODE": "32043",
+        "OPERATING": "CLAY COUNTY",
+        "OP_CLASS": "COUNTY",
+        "YR_BUILT": 1982,
+        "SERVICES": "FIRE / RESCUE",
+        "Fire": "Career",
+        "Rescue": "YES",
+        "App_Count": 2,
+        "StationNum": "24",
+        "GlobalID": "{A73C149C-0468-4D60-9805-6CE239A1AF8E}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.681376112512055, 29.921398255545064]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 7,
+        "NAME": "FIRE STATION 19",
+        "ADDRESS": "2025 SMITH ST",
+        "CITY": "ORANGE PARK",
+        "ZIPCODE": "32073",
+        "OPERATING": "CLAY COUNTY",
+        "OP_CLASS": "COUNTY",
+        "YR_BUILT": 1995,
+        "SERVICES": "FIRE / RESCUE",
+        "Fire": "Career",
+        "Rescue": "YES",
+        "App_Count": 2,
+        "StationNum": "19",
+        "GlobalID": "{45422E29-3734-4429-A519-3178F02154E7}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.702636703530629, 30.164565813599015]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 8,
+        "NAME": "FIRE STATION 13",
+        "ADDRESS": "5283 COUNTY ROAD 218",
+        "CITY": "MIDDLEBURG",
+        "ZIPCODE": "32068",
+        "OPERATING": "CLAY COUNTY",
+        "OP_CLASS": "COUNTY",
+        "YR_BUILT": 1986,
+        "SERVICES": "FIRE / RESCUE",
+        "Fire": "Career",
+        "Rescue": "YES",
+        "App_Count": 3,
+        "StationNum": "13",
+        "GlobalID": "{E61A1A39-D9DB-41D3-9AC8-EC279FF06745}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.954763307260706, 30.099843884591859]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 9,
+        "NAME": "FIRE STATION 23",
+        "ADDRESS": "6837 COUNTY ROAD 315C",
+        "CITY": "KEYSTONE HEIGHTS",
+        "ZIPCODE": "32656",
+        "OPERATING": "CLAY COUNTY",
+        "OP_CLASS": "COUNTY",
+        "YR_BUILT": 1984,
+        "SERVICES": "FIRE / RESCUE",
+        "Fire": "Career",
+        "Rescue": "YES",
+        "App_Count": 5,
+        "StationNum": "23",
+        "GlobalID": "{E97A54B8-5F1F-4318-84F3-C39640B4A3DB}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.921795929054824, 29.813547566300517]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 10,
+        "NAME": "FIRE STATION 25",
+        "ADDRESS": "2239 AVENUE B",
+        "CITY": "STARKE",
+        "ZIPCODE": "32091",
+        "OPERATING": "CLAY COUNTY",
+        "OP_CLASS": "COUNTY",
+        "YR_BUILT": 1946,
+        "SERVICES": "FIRE / RESCUE",
+        "Fire": "Career",
+        "Rescue": "YES",
+        "App_Count": 2,
+        "StationNum": "25",
+        "GlobalID": "{6A3C1C82-8C42-41CA-B433-507794F95313}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.982585673969922, 29.975349045113223]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 12,
+        "NAME": "FIRE STATION 18",
+        "ADDRESS": "207 BLANDING BLVD",
+        "CITY": "ORANGE PARK",
+        "ZIPCODE": "32073",
+        "OPERATING": "CLAY COUNTY",
+        "OP_CLASS": "COUNTY",
+        "YR_BUILT": 1964,
+        "SERVICES": "FIRE / RESCUE",
+        "Fire": "Career",
+        "Rescue": "YES",
+        "App_Count": 3,
+        "StationNum": "18",
+        "GlobalID": "{E09BD03F-1874-4B2C-9D6D-6922662D487B}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.743299899937853, 30.176375265689114]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 13,
+        "NAME": "FIRE STATION 26",
+        "ADDRESS": "4030 IVORY CRSG",
+        "CITY": "ORANGE PARK",
+        "ZIPCODE": "32065",
+        "OPERATING": "CLAY COUNTY",
+        "OP_CLASS": "COUNTY",
+        "YR_BUILT": 2006,
+        "SERVICES": "FIRE / RESCUE",
+        "Fire": "Career",
+        "Rescue": "YES",
+        "App_Count": 3,
+        "StationNum": "26",
+        "GlobalID": "{0F3E0B24-5F1A-4706-AFBF-B1BA67BA8033}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.850833137752034, 30.174611242714107]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 14,
+        "NAME": "FIRE STATION 17",
+        "ADDRESS": "3394 PEORIA RD",
+        "CITY": "ORANGE PARK",
+        "ZIPCODE": "32065",
+        "OPERATING": "CLAY COUNTY",
+        "OP_CLASS": "COUNTY",
+        "YR_BUILT": 1980,
+        "SERVICES": "FIRE / RESCUE",
+        "Fire": "Career",
+        "Rescue": "YES",
+        "App_Count": 3,
+        "StationNum": "17",
+        "GlobalID": "{793BF6DA-EA82-44AE-9A0F-610BB7A4DC84}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.770291387310763, 30.127340610601941]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 15,
+        "NAME": "FIRE STATION HQ",
+        "ADDRESS": "2519  STATE ROAD 16 W",
+        "CITY": "GREEN COVE SPRINGS",
+        "ZIPCODE": "32043",
+        "OPERATING": "CLAY COUNTY",
+        "OP_CLASS": "COUNTY",
+        "YR_BUILT": 2011,
+        "SERVICES": "HQ / EOC",
+        "Fire": null,
+        "Rescue": "NO",
+        "App_Count": 2,
+        "StationNum": null,
+        "GlobalID": "{9104340B-FF6B-470B-A9FA-392EBBDB7E43}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.74423476344424, 29.978430191709364]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 418,
+        "NAME": "FIRE STATION 11",
+        "ADDRESS": "7390 STATE ROAD 21",
+        "CITY": "KEYSTONE HEIGHTS",
+        "ZIPCODE": "32656",
+        "OPERATING": "CLAY COUNTY",
+        "OP_CLASS": "COUNTY",
+        "YR_BUILT": 0,
+        "SERVICES": "FIRE / RESCUE",
+        "Fire": "Career",
+        "Rescue": "YES",
+        "App_Count": 0,
+        "StationNum": "11",
+        "GlobalID": "{D87022A0-179D-4572-A594-18ECA017144F}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.026606397408585, 29.792583554652996]
+      }
+    }
+  ]
+}

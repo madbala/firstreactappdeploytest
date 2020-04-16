@@ -1,0 +1,4906 @@
+{
+  "type": "FeatureCollection",
+  "name": "Pts_of_Interest",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1,
+        "Name": "Village Improvement Association, Womanâ€™s Club",
+        "Type": "HisMarker",
+        "Address": "61 N Palmetto Ave",
+        "Notes": null,
+        "weblink": "http://apps.flheritage.com/markers/markers.cfm?ID=clay",
+        "Location_I": 1.0,
+        "GlobalID": "{15C61970-3CB3-47A2-916F-A9F27B57EB14}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.680673250753841, 29.993779454846887]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2,
+        "Name": "Town of Penney Farms",
+        "Type": "HisMarker",
+        "Address": "4100 Clark Av",
+        "Notes": null,
+        "weblink": "http://apps.flheritage.com/markers/markers.cfm?ID=clay",
+        "Location_I": 2.0,
+        "GlobalID": "{02346931-FD43-4439-A6D7-3EC98C73E6E9}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.812942146848911, 29.981826414240867]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3,
+        "Name": "Fort San Fransisco De Pupo",
+        "Type": "HisMarker",
+        "Address": "S.R. 16 at Shands Bridge",
+        "Notes": null,
+        "weblink": "http://apps.flheritage.com/markers/markers.cfm?ID=clay",
+        "Location_I": 3.0,
+        "GlobalID": "{4EB9B385-0D95-49DC-9D9A-7610A4833312}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.629249650208877, 29.978081529172954]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 4,
+        "Name": "Bellamy Road",
+        "Type": "HisMarker",
+        "Address": "US 17 at Bellamy Rd",
+        "Notes": null,
+        "weblink": "http://apps.flheritage.com/markers/markers.cfm?ID=clay",
+        "Location_I": 4.0,
+        "GlobalID": "{98486072-00CB-4DDA-B674-0C4BC0289A85}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.684976303521097, 29.924927125162551]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 5,
+        "Name": "Green Cove Springs",
+        "Type": "HisMarker",
+        "Address": "229 Walnut Street at Spring Park",
+        "Notes": null,
+        "weblink": "http://apps.flheritage.com/markers/markers.cfm?ID=clay",
+        "Location_I": 5.0,
+        "GlobalID": "{0F47996C-9829-40E3-AE8D-B826EC0586D8}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.677447132299662, 29.993602437795289]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 6,
+        "Name": "Middleburg",
+        "Type": "HisMarker",
+        "Address": "Corner of Wharf Street and Main Street",
+        "Notes": null,
+        "weblink": "http://apps.flheritage.com/markers/markers.cfm?ID=clay",
+        "Location_I": 6.0,
+        "GlobalID": "{CD6E4425-A3B6-4EA8-B3B2-CAF96700B1C1}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.860559911683396, 30.069032550471686]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 7,
+        "Name": "Middleburg Methodist Church",
+        "Type": "HisMarker",
+        "Address": "3925 Main St",
+        "Notes": "On Church Grounds",
+        "weblink": "http://apps.flheritage.com/markers/markers.cfm?ID=clay",
+        "Location_I": 7.0,
+        "GlobalID": "{10A634FB-279B-4C25-A11A-8562498B37C6}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.862297552074224, 30.068331491089499]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 8,
+        "Name": "Old Clay County Courthouse",
+        "Type": "HisMarker",
+        "Address": "915 Walnut Street (Closest to Point)",
+        "Notes": "Next to Railroad Tracks",
+        "weblink": "http://apps.flheritage.com/markers/markers.cfm?ID=clay",
+        "Location_I": 8.0,
+        "GlobalID": "{969AEE2D-D23C-44E1-AEDB-4D2C2E4323B2}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.684681814389151, 29.991268000692749]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 9,
+        "Name": "Fort Heilman",
+        "Type": "HisMarker",
+        "Address": "S.R. 21& Palmetto in front of abandoned bank",
+        "Notes": null,
+        "weblink": "http://apps.flheritage.com/markers/markers.cfm?ID=clay",
+        "Location_I": 9.0,
+        "GlobalID": "{2ECD4C92-E463-4A4B-8BE9-F04E1C39DD99}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.864156653514087, 30.073611629938004]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 409,
+        "Name": "Fleming Island",
+        "Type": "Post",
+        "Address": "1880 East West Pkwy",
+        "Notes": "US Post Ofc Fleming Island 32003",
+        "weblink": "http://usps.whitepages.com/post_office/search?z=32003",
+        "Location_I": 0.0,
+        "GlobalID": "{78F33287-DCFA-4D6A-8207-4499147BD8F6}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.711771116436097, 30.099048589419006]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 410,
+        "Name": "College Dr",
+        "Type": "Post",
+        "Address": "225 College Dr",
+        "Notes": "US Post Ofc College Dr 32065",
+        "weblink": "http://usps.whitepages.com/post_office/search?z=32065",
+        "Location_I": 0.0,
+        "GlobalID": "{63525A42-7F90-4271-97BE-3E67560F5721}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.775045518379244, 30.123137858188368]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 411,
+        "Name": "Green Cove Springs",
+        "Type": "Post",
+        "Address": "500 Palmer St",
+        "Notes": "US Post Ofc Green Cove Springs 32043",
+        "weblink": "http://usps.whitepages.com/post_office/search?z=32043",
+        "Location_I": 0.0,
+        "GlobalID": "{37A31129-E88E-4ED6-9C79-15B9A930FE81}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.680982316050176, 29.994138104624358]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 412,
+        "Name": "Keystone Hts.",
+        "Type": "Post",
+        "Address": "110  NE Commercial Cir",
+        "Notes": "US Post Ofc Keystone Hts. 32656",
+        "weblink": "http://usps.whitepages.com/post_office/search?z=32656",
+        "Location_I": 0.0,
+        "GlobalID": "{3913B6AB-8452-43D8-B1FB-03582A7FD3C3}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.029545118299751, 29.786577901945709]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 413,
+        "Name": "Kingsley (Orange Park)",
+        "Type": "Post",
+        "Address": "1335 Kingsley Av",
+        "Notes": "US Post Ofc Kingsley 32073",
+        "weblink": "http://usps.whitepages.com/post_office/search?z=32073",
+        "Location_I": 0.0,
+        "GlobalID": "{12311B69-316C-481B-94A9-D40C875C4D46}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.722353020718543, 30.16600410203122]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 414,
+        "Name": "Middleburg",
+        "Type": "Post",
+        "Address": "2073 Palmetto Av",
+        "Notes": "US Post Ofc Middleburg 32068",
+        "weblink": "http://usps.whitepages.com/post_office/search?z=32068",
+        "Location_I": 0.0,
+        "GlobalID": "{1D2F4AB6-CA55-4C5B-BBB2-7357318B0E86}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.862851262504847, 30.073157029730073]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 415,
+        "Name": "Middleburg Clay-Hill Library",
+        "Type": "Library",
+        "Address": "2245 Aster Av",
+        "Notes": "(904) 541-5855     (Mon 10-6, Tue-Thur 10-8, Fri & Sat 10-5, Sun Closed)",
+        "weblink": "http://www.ccpl.lib.fl.us/",
+        "Location_I": 0.0,
+        "GlobalID": "{11A93DD2-42CF-4353-84AB-E247DDB81392}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.881226407050519, 30.062512833426695]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 416,
+        "Name": "Fleming Island (Headquarters Library)",
+        "Type": "Library",
+        "Address": "1895 Town Center Blvd",
+        "Notes": "(904) 278-3720     (Mon-Thur 10-8, Fri & Sat 10-5, Sun Closed)",
+        "weblink": "http://www.ccpl.lib.fl.us/",
+        "Location_I": 0.0,
+        "GlobalID": "{9E569416-2EBF-4728-9E2C-A207DBE94189}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.710532994257534, 30.092848932200049]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 417,
+        "Name": "Orange Park Library",
+        "Type": "Library",
+        "Address": "2054 Plainfield Av",
+        "Notes": "(904) 278-4750     (Mon-Thur 10-8, Fri & Sat 10-5, Sun Closed)",
+        "weblink": "http://www.ccpl.lib.fl.us/",
+        "Location_I": 0.0,
+        "GlobalID": "{A06F13EF-6C29-454A-9284-4894C69AA9F9}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.707240138540698, 30.164533957568267]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 418,
+        "Name": "Green Cove Springs Library",
+        "Type": "Library",
+        "Address": "403 Ferris St",
+        "Notes": "(904) 284-6315     (Mon 10-6,Tue-Thur 10-8, Fri & Sat 10-5, Sun Closed)",
+        "weblink": "http://www.ccpl.lib.fl.us/",
+        "Location_I": 0.0,
+        "GlobalID": "{A84849EE-D659-42C5-815E-136A015F2C60}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.679411213998932, 29.991389161715379]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 419,
+        "Name": "Keystone Heights Library",
+        "Type": "Library",
+        "Address": "175 Oriole St",
+        "Notes": "(352) 473-4286     (Mon 10-6, Tue 1-8, Wed 10-6, Thur 1-8, Fri & Sat 10-5, Sun Closed)",
+        "weblink": "http://www.ccpl.lib.fl.us/",
+        "Location_I": 0.0,
+        "GlobalID": "{3A84D914-45C8-45EE-AEED-C1EB6BAE5198}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.029897681280403, 29.781505717475209]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 420,
+        "Name": "Orange Park Medical Center",
+        "Type": "Hospital",
+        "Address": "2001 Kingsley Av",
+        "Notes": "(904)276-8500",
+        "weblink": "http://www.orangepparkmedical.com/",
+        "Location_I": 0.0,
+        "GlobalID": "{A884E6A4-BAB4-441A-9DA9-525A5B8DE06A}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.7375785022614, 30.165931711361473]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 421,
+        "Name": "Kindred Hospital North Florida",
+        "Type": "Hospital",
+        "Address": "801 Oak St",
+        "Notes": "(904)284-9230",
+        "weblink": "http://www.khnorthflorida.com/",
+        "Location_I": 0.0,
+        "GlobalID": "{084DF63F-F076-442E-9CB9-034FF19E47F0}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.682055842077645, 29.987806002739056]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 809,
+        "Name": "Clay County Sheriff's (North Sector)",
+        "Type": "Police",
+        "Address": "212 Blanding Blvd",
+        "Notes": "(904) 213-6600",
+        "weblink": "http://www.claysheriff.com/03_01_0North.asp",
+        "Location_I": 0.0,
+        "GlobalID": "{9166592A-60F0-4EC5-B51C-06BDB327301A}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.744931107547885, 30.177244190374928]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 810,
+        "Name": "Clay County Sheriff's HQ (East Sector)",
+        "Type": "Police",
+        "Address": "901 North Orange Av",
+        "Notes": "(904) 264- 6512 Sherff's Office HQ",
+        "weblink": "http://www.claysheriff.com/03_02_0East.asp",
+        "Location_I": 0.0,
+        "GlobalID": "{9F9EE2A0-E612-445F-BB40-4090BB41B237}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.687185048698836, 30.004005056579697]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 811,
+        "Name": "Clay County Sheriff's (South Sector)",
+        "Type": "Police",
+        "Address": "1836 Blanding Blvd",
+        "Notes": "(904) 282-9931",
+        "weblink": "http://www.claysheriff.com/03_03_0South.asp",
+        "Location_I": 0.0,
+        "GlobalID": "{79A3DA1F-BCDD-4AD4-990A-3990954FC721}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.832480615669084, 30.103169925664389]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 812,
+        "Name": "BOCC Administrative Building",
+        "Type": "Government",
+        "Address": "477 Houston St",
+        "Notes": "(904) 284-6376",
+        "weblink": "http://www.claycountygov.com/",
+        "Location_I": 0.0,
+        "GlobalID": "{30917306-647A-498D-87D2-A489CDA460F5}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.684336472638449, 30.000623663568817]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 813,
+        "Name": "Public Works",
+        "Type": "Government",
+        "Address": "5 Esplanade Av",
+        "Notes": "(904) 284-6335",
+        "weblink": "http://www.claycountygov.com/Departments/Public_Works/Pub_Works.htm",
+        "Location_I": 0.0,
+        "GlobalID": "{6DA14DE8-B6FB-43B8-8F32-B25B18F87432}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.686494625438641, 29.992225652305397]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 814,
+        "Name": "Heath Department Admin Building",
+        "Type": "Government",
+        "Address": "1305 Idlewild Av",
+        "Notes": "(904) 529-2800",
+        "weblink": "http://www.doh.state.fl.us/chdclay/Index.htm",
+        "Location_I": 0.0,
+        "GlobalID": "{0CA82D68-7843-42B5-BE7B-1E03AAF30DF0}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.691692728822701, 29.987309354439759]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 816,
+        "Name": "Supervisor of Election",
+        "Type": "Government",
+        "Address": "500 N. Orange Ave",
+        "Notes": "(904) 269-6350",
+        "weblink": "http://www.clayelections.com/",
+        "Location_I": 0.0,
+        "GlobalID": "{73C946DC-9F93-4774-B361-F8A090C00AE9}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.681112654432411, 29.997917126866469]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 817,
+        "Name": "Animal Control",
+        "Type": "Government",
+        "Address": "3984 State Road 16 W",
+        "Notes": "(904) 269-6342",
+        "weblink": "http://www.claycountygov.com/Departments/Enforcement/AC/AChome.htm",
+        "Location_I": 0.0,
+        "GlobalID": "{2D58478F-9BC4-4EA5-B70F-E1812452E84A}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.849265818872837, 29.981157502888486]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 818,
+        "Name": "Clay County Agricultural Center",
+        "Type": "Government",
+        "Address": "2463 State Road 16 West",
+        "Notes": "(904) 269-6355",
+        "weblink": "http://www.claycountygov.com/Departments/Ag_Center/Ag_Center.htm",
+        "Location_I": 0.0,
+        "GlobalID": "{D9212CC4-F9F9-47BF-A004-E68BB84DA567}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.740665802415023, 29.983275896013389]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 819,
+        "Name": "Ship ( State Housing Initiative Partnership)",
+        "Type": "Government",
+        "Address": "477 Houston St",
+        "Notes": "(904) 529-4700",
+        "weblink": "http://www.claycountygov.com/Departments/SHIP/SHIP.htm",
+        "Location_I": 0.0,
+        "GlobalID": "{66E48013-4030-4E3F-BAEF-EC1CB84A1332}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.684437737966419, 30.000565261568173]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 820,
+        "Name": "Veterans Services",
+        "Type": "Government",
+        "Address": "477 Houston St",
+        "Notes": "(904) 284/269-6326",
+        "weblink": "http://www.claycountygov.com/Departments/Veterans/Veterans.htm",
+        "Location_I": 0.0,
+        "GlobalID": "{EB62F290-E5D2-437D-8CE6-E50677767A4C}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.684466097184242, 30.000647412786666]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 821,
+        "Name": "Environmental Services",
+        "Type": "Government",
+        "Address": "3545 Rosemary Hill Rd",
+        "Notes": "(904) 284/269-6374",
+        "weblink": "http://www.claycountygov.com/Departments/Environmental/rosemary_hill.htm",
+        "Location_I": 0.0,
+        "GlobalID": "{42401AB7-39EE-45F0-8879-7A68CC089610}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.738316753507007, 30.00071642632404]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 822,
+        "Name": "Environmental Convenience Center",
+        "Type": "Government",
+        "Address": "288 Sleepy Hollow Rd",
+        "Notes": "(904) 269-6374",
+        "weblink": "http://www.claycountygov.com/Departments/Environmental/ecc.htm",
+        "Location_I": 0.0,
+        "GlobalID": "{25A303CA-391D-44AF-A7AE-16BFA122E22E}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.764077801958408, 30.08450070148082]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 823,
+        "Name": "Environmental Convenience Center",
+        "Type": "Government",
+        "Address": "1589 Long Bay Road",
+        "Notes": "(904) 269-6374",
+        "weblink": "http://www.claycountygov.com/Departments/Environmental/ecc.htm",
+        "Location_I": 0.0,
+        "GlobalID": "{974860EE-B8AC-4CA7-805C-86669914F4C3}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.862980185085846, 30.095177003158962]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 824,
+        "Name": "Environmental Convenience Center",
+        "Type": "Government",
+        "Address": "5869 County Road 218",
+        "Notes": "(904) 269-6374",
+        "weblink": "http://www.claycountygov.com/Departments/Environmental/ecc.htm",
+        "Location_I": 0.0,
+        "GlobalID": "{ADC98850-E3B3-4082-8DC4-9883AEC532E2}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.992566220962416, 30.115225627822351]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 826,
+        "Name": "Environmental Convenience Center",
+        "Type": "Government",
+        "Address": "5505 County Road 214",
+        "Notes": "(352) 473-3711 Ext. 6374",
+        "weblink": "http://www.claycountygov.com/Departments/Environmental/ecc.htm",
+        "Location_I": 0.0,
+        "GlobalID": "{A245E614-B9AA-485C-9B9D-E5F55E1A58BC}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.959813749953042, 29.777345672385948]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 827,
+        "Name": "Clay County Fairgrounds",
+        "Type": "Government",
+        "Address": "2497 State Road 16 W",
+        "Notes": "(904) 529-5199",
+        "weblink": "http://www.claycountygov.com/Departments/Fairgrounds/fairgrounds.htm",
+        "Location_I": 0.0,
+        "GlobalID": "{BDBB13FE-B750-44D7-A8AD-10B85A556B5E}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.742359875738018, 29.981755830137313]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 828,
+        "Name": "Parks And Recreation",
+        "Type": "Government",
+        "Address": "3557 Highway 17",
+        "Notes": "(904) 284/269-6378",
+        "weblink": "http://www.claycountygov.com/Departments/Parks_Rec/Parks_Home.htm",
+        "Location_I": 0.0,
+        "GlobalID": "{6BA14CB7-E4B8-41C1-B60B-B7BCDB018088}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.692159975349014, 30.007317946277293]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 829,
+        "Name": "Clay County Tax Collector",
+        "Type": "Government",
+        "Address": "1518 Park Av",
+        "Notes": "(904) 269-1400",
+        "weblink": "http://www.claycountytax.com/",
+        "Location_I": 0.0,
+        "GlobalID": "{F18DF26B-9BE2-443E-AC80-F85B5E2F0A27}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.702459461634959, 30.171478948120875]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 830,
+        "Name": "Clay County Tax Collector",
+        "Type": "Government",
+        "Address": "3245 Bear Run Blvd",
+        "Notes": "(904) 529/541-5337",
+        "weblink": "http://www.claycountytax.com/",
+        "Location_I": 0.0,
+        "GlobalID": "{54687D00-E495-4581-AEF6-C5887E03BBF6}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.801407525203899, 30.122756904370842]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 831,
+        "Name": "Clay County Tax Collector",
+        "Type": "Government",
+        "Address": "7380 State Road 100 Ste 10",
+        "Notes": "(352) 473-4899",
+        "weblink": "http://www.claycountytax.com/",
+        "Location_I": 0.0,
+        "GlobalID": "{2A419580-BFC2-42FA-BADB-FFA5B45FFFF6}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.042531407674119, 29.790785931948015]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 834,
+        "Name": "Clay County Chamber of Commerce",
+        "Type": "Government",
+        "Address": "1734 Kingsley Av",
+        "Notes": "(904) 264-2651",
+        "weblink": "http://www.claychamber.org/",
+        "Location_I": 0.0,
+        "GlobalID": "{0CED2F9D-C4C7-47CA-A849-56F9031DD4C2}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.733401551726217, 30.164378923575864]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 835,
+        "Name": "Clay County Utility Authority",
+        "Type": "Government",
+        "Address": "3176 Old Jennings Rd",
+        "Notes": "(904) 272-5999",
+        "weblink": "http://www.clayutility.org/",
+        "Location_I": 0.0,
+        "GlobalID": "{8DED660B-3951-4CE0-805C-DEC071269534}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.815198608199424, 30.115320851962942]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 836,
+        "Name": "Green Cove Springs City Hall",
+        "Type": "Government",
+        "Address": "321 Walnut St",
+        "Notes": "(904) 529-2200",
+        "weblink": "http://www.greencovesprings.com/",
+        "Location_I": 0.0,
+        "GlobalID": "{FD4F40FA-DEE9-4A97-AA29-DA3B9B052107}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.678639350037017, 29.993262124098301]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 837,
+        "Name": "Clay Electric",
+        "Type": "Government",
+        "Address": "714 Nightingale St",
+        "Notes": "(352) 473-8000",
+        "weblink": "http://clayelectric.com/",
+        "Location_I": 0.0,
+        "GlobalID": "{96A34894-FD0F-43FE-847F-F2233D615C1D}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.039966318209665, 29.787095831523224]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 838,
+        "Name": "Clay Electric",
+        "Type": "Government",
+        "Address": "734 Blanding Blvd",
+        "Notes": "(904) 272-2456",
+        "weblink": "http://clayelectric.com/contact_orangepark.aspx",
+        "Location_I": 0.0,
+        "GlobalID": "{B31731E4-A249-43A1-AF02-B126CE41A100}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.760479400194029, 30.147032251993039]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 839,
+        "Name": "Clay County Historical & Railroad Museum",
+        "Type": "Museum",
+        "Address": "915 Walnut St",
+        "Notes": "(904) 284-9644 / http://www.myfloridahistory.org/history/bluebook/2005/page2of2",
+        "weblink": "http://www.claycountygov.com/menu/archives.htm",
+        "Location_I": 0.0,
+        "GlobalID": "{2BAA4FAB-A26E-4AA7-BC29-89A203816EA0}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.6845096983551, 29.991395625665479]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 840,
+        "Name": "Black Heritage Museum",
+        "Type": "Museum",
+        "Address": "4397 Longmire Rd",
+        "Notes": "(904) 282-4168          (Museum Location at Hunter Douglas Park)",
+        "weblink": "http://www.claycountygov.com/menu/archives.htm",
+        "Location_I": 0.0,
+        "GlobalID": "{7910AE34-1C01-4BE3-8CDF-8FEE137BB5F0}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.893699281824581, 30.054204577411454]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 841,
+        "Name": "Middleburg Historical Museum",
+        "Type": "Museum",
+        "Address": "2102 Palmetto St",
+        "Notes": "(904) 282-8691",
+        "weblink": "http://www.claycountygov.com/menu/archives.htm",
+        "Location_I": 0.0,
+        "GlobalID": "{02D26FB8-1210-4D6B-B377-6A73D69F7B62}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.862620349862638, 30.070921035937893]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 843,
+        "Name": "Camp Blanding & Memorial Park",
+        "Type": "Museum",
+        "Address": "5629 State Road 16 West",
+        "Notes": "(904) 533-3100 Ext. 3196",
+        "weblink": "http://www.campblanding-museum.org/",
+        "Location_I": 0.0,
+        "GlobalID": "{131879E5-B5D8-4110-A9F8-751965B3705A}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.984812625871172, 29.98035324013442]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 844,
+        "Name": "Town of Orange Park Hall",
+        "Type": "Government",
+        "Address": "2042 Park Av",
+        "Notes": "(904) 264-2635",
+        "weblink": "http://www.townoforangepark.com/",
+        "Location_I": 0.0,
+        "GlobalID": "{0A704452-4661-4D85-8544-763794501DE6}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.701678059513071, 30.16506811876339]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 845,
+        "Name": "Orange Park Police Department",
+        "Type": "Police",
+        "Address": "2025 Smith St",
+        "Notes": "(904) 264-5555",
+        "weblink": "http://www.orangeparkpolice.com/",
+        "Location_I": 0.0,
+        "GlobalID": "{477EA7F8-BD65-46D1-93E8-8E0996E3E922}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.702578103934954, 30.164826277635807]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 847,
+        "Name": "Town of Orange Park Public Works Department",
+        "Type": "Government",
+        "Address": "700 Ash St",
+        "Notes": "(904) 264-7411",
+        "weblink": "http://www.townoforangepark.com/public_works.html",
+        "Location_I": 0.0,
+        "GlobalID": "{24F4370A-9A0F-4FCD-A3CD-67C783B858F5}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.70963305196338, 30.183043069746837]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 848,
+        "Name": "Green Cove Springs Police Department",
+        "Type": "Law",
+        "Address": "1001 Idlewild Av",
+        "Notes": "(904) 529-2220",
+        "weblink": "http://greencovesprings.govoffice.com/index.asp?Type=B_BASIC&SEC=%7B735DB1CE-3B71-49B9-96A0-2C6F4645CEE7%7D",
+        "Location_I": 0.0,
+        "GlobalID": "{160BBD15-EF4D-4EA6-913B-31C388994479}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.686108759488917, 29.989319884947641]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 849,
+        "Name": "School District of Clay County",
+        "Type": "Government",
+        "Address": "900 Walnut St",
+        "Notes": "(904) 272-8100",
+        "weblink": "http://www.clay.k12.fl.us/",
+        "Location_I": 0.0,
+        "GlobalID": "{CC74B3BC-3F0A-4B27-9F78-24215A6BC964}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.684024446516929, 29.99230905779898]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 852,
+        "Name": "Clay County Senior Center",
+        "Type": "Government",
+        "Address": "604 Walnut Street",
+        "Notes": "(904) 284-5977",
+        "weblink": "http://www.clayccoa.org/",
+        "Location_I": 0.0,
+        "GlobalID": "{2DCDB567-9B8D-469F-AB3F-5B63F2979906}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.681642931767513, 29.993199095559742]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 853,
+        "Name": "Orange Park Senior Center",
+        "Type": "Government",
+        "Address": "414 Stowe Av",
+        "Notes": "(904) 269-4731",
+        "weblink": "http://www.clayccoa.org/",
+        "Location_I": 0.0,
+        "GlobalID": "{A008E76C-931E-45D5-BE8C-A8F915172854}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.70363820194278, 30.163875514701928]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 854,
+        "Name": "Weigel Senior Center",
+        "Type": "Government",
+        "Address": "3916 Section St",
+        "Notes": "(904) 284-5977",
+        "weblink": "http://www.clayccoa.org/",
+        "Location_I": 0.0,
+        "GlobalID": "{46A0603E-502C-420E-AECB-0FCC1A80C303}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.863009903425095, 30.070892526821311]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 855,
+        "Name": "William Beam Senior Center",
+        "Type": "Government",
+        "Address": "125 Commercial Cir",
+        "Notes": "(904) 473-2112 / http://elderaffairs.state.fl.us/english/seniorcenter/sc.pdf",
+        "weblink": "http://www.clayccoa.org/",
+        "Location_I": 0.0,
+        "GlobalID": "{C85D4857-B545-4B30-A834-8FD87DB36916}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.028366245999834, 29.786778840746766]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 856,
+        "Name": "Camp Blanding Joint Training Center",
+        "Type": "Government",
+        "Address": "State Road 16 - Entrance Tallahassee St",
+        "Notes": "(904) 682-3506",
+        "weblink": "http://www.dma.state.fl.us/read.asp?did=539",
+        "Location_I": 0.0,
+        "GlobalID": "{3203C1F0-1251-42DF-901A-6B96ABD16F83}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.985152579374926, 29.97920947049252]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 857,
+        "Name": "Environmental Health Clay County",
+        "Type": "Government",
+        "Address": "301 S West St",
+        "Notes": "(904) 529-2801",
+        "weblink": "http://www.doh.state.fl.us/chdclay/Environmental/EH.htm",
+        "Location_I": 0.0,
+        "GlobalID": "{1769A20B-7589-4E89-9EBA-17DC005B74AC}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.691507885991385, 29.986973222180357]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 859,
+        "Name": "Bear Run Health Clinic Complex",
+        "Type": "Government",
+        "Address": "3229 Bear Run Boulevard",
+        "Notes": "(904) 272-3177",
+        "weblink": "http://www.doh.state.fl.us/chdclay/Index.htm",
+        "Location_I": 0.0,
+        "GlobalID": "{7AC8DAE3-6DCE-4D0D-AE2B-A2B68C6D7BC1}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.801476157860876, 30.123404342831559]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1609,
+        "Name": "Town of Penny Farms Town Hall",
+        "Type": "Government",
+        "Address": "4100 Clark Av",
+        "Notes": "(904) 529-9078",
+        "weblink": "http://penneyfarmsfl.govoffice2.com/",
+        "Location_I": 0.0,
+        "GlobalID": "{87BF8558-EB8E-4F28-82BB-2545E5BCCCA5}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.812768441835033, 29.981651232180205]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1610,
+        "Name": "City of Keystone Heights Town Hall",
+        "Type": "Government",
+        "Address": "555 S.Lawrence Blvd",
+        "Notes": "(3520 473-4807",
+        "weblink": "http://www.keystoneheightsfl.net/",
+        "Location_I": 0.0,
+        "GlobalID": "{FD195580-C5B3-4E54-8087-4CA85AD31624}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.030334467622708, 29.780931501698497]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2009,
+        "Name": "Clay County Tax Collectors",
+        "Type": "Government",
+        "Address": "477 Houston St",
+        "Notes": "(904) 284/269-6320",
+        "weblink": "http://www.claycountytax.com/index.htm",
+        "Location_I": 0.0,
+        "GlobalID": "{87685AE4-FA2D-4EBB-A376-944117000DD1}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.684440121864995, 30.000733213215138]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2010,
+        "Name": "Penney Farms",
+        "Type": "Post",
+        "Address": "4380 Lewis Av",
+        "Notes": "(904) 529-9611",
+        "weblink": "http://usps.whitepages.com/post_office/search?z=32043",
+        "Location_I": 0.0,
+        "GlobalID": "{4FCD309E-EFB7-49A5-9794-567BA08DC050}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.810684249004197, 29.97895293854554]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2409,
+        "Name": "Clay Maintenance Complex",
+        "Type": "Government",
+        "Address": "1565 County Road 315",
+        "Notes": "Clay County Division of Parks,Recreation & Special Events",
+        "weblink": "http://www.claycountygov.com/Departments/Fairgrounds/fairgrounds.htm",
+        "Location_I": 0.0,
+        "GlobalID": "{19450E64-2CAE-4611-83A5-C8D7D0338D4D}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.71296158521325, 30.023252389421312]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2811,
+        "Name": "Clay County Emergency Services Complex",
+        "Type": "EOC",
+        "Address": "2519 West SR 16",
+        "Notes": "(904) 284-7703",
+        "weblink": "http://www.claycountygov.com/Departments/Public_Safety/Public_Safety.htm",
+        "Location_I": 0.0,
+        "GlobalID": "{F1E3BBBD-14FE-47E5-AB0B-7B9F534ED9AF}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.74423476344424, 29.978430191709364]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2812,
+        "Name": "Clay County Jail",
+        "Type": "Law",
+        "Address": "901 North Orange Av",
+        "Notes": "(904) 264-6512",
+        "weblink": "http://www.claysheriff.com/03_02_0East.asp",
+        "Location_I": 0.0,
+        "GlobalID": "{71EFCFD4-B6E7-4FE9-9FDA-38AF64DCF259}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.686911035365426, 30.003544370349196]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3614,
+        "Name": "Fleming Island United Meth. Church",
+        "Type": "Church",
+        "Address": "7170 HIGHWAY 17",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{48513125-6C58-4852-B0D7-C7F1FDEE32CC}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.708249751420624, 30.063299466006843]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3615,
+        "Name": "Sacred Heart Church",
+        "Type": "Church",
+        "Address": "7190 HIGHWAY 17",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{4FB7D8AB-FC7D-4CBF-8C02-4FDB9785AEBF}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.708807426757943, 30.062660667254764]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3616,
+        "Name": "Hibernia Baptist Church",
+        "Type": "Church",
+        "Address": "7100 HIGHWAY 17",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{BD68A63B-13AC-4585-A334-497290E0EF41}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.709738453163808, 30.065772647433398]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3617,
+        "Name": "Harbor Baptist",
+        "Type": "Church",
+        "Address": "1120 CLAY ST",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{66579690-83B7-4B4C-924C-A9DE7E9B04DA}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.708442909607513, 30.059384800942222]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3618,
+        "Name": "St. Margaret's Episcopal Church",
+        "Type": "Church",
+        "Address": "6865 PINE AV",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{49E59CBC-28D0-4DBA-9824-E995D48831B4}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.697856761627179, 30.067922095335025]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3619,
+        "Name": "The Church of Jesus Christ of Latter-day Saints",
+        "Type": "Church",
+        "Address": "780 WATER OAK LN",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{B6520F21-D9E1-4CE5-8D53-8974F6AE65F5}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.705941545215879, 30.079217562110738]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3620,
+        "Name": "Christ's Church",
+        "Type": "Church",
+        "Address": "5900 HIGHWAY 17",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{86E51973-EEA8-46B4-ACC8-25BFFE087436}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.707162325655858, 30.089930536657953]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3621,
+        "Name": "New Grace Church",
+        "Type": "Church",
+        "Address": "5800 HIGHWAY 17",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{F6519A49-B0BC-4355-911E-E0F8C5A0AA44}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.707133507925803, 30.091831573988799]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3622,
+        "Name": "Heritage Baptist Church",
+        "Type": "Church",
+        "Address": "4325 HIGHWAY 17",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{D218FC85-29C2-4D78-A7D4-84240FF7EE79}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.703857571981032, 30.119331200412969]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3624,
+        "Name": "Orange Cove Seventh-Day Adventist Church",
+        "Type": "Church",
+        "Address": "4501 US HWY 17",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{DD9734A5-E2F1-48FC-91EF-2835F8ED85D0}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.704117666223823, 30.114287185454895]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3626,
+        "Name": "Fleming Island Baptist Church",
+        "Type": "Church",
+        "Address": "1871 COUNTY ROAD 220",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{CBA2CECA-1926-47E0-A745-512283151FBB}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.732764236340088, 30.101361994291867]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3627,
+        "Name": "Crossroad Lutheran Church",
+        "Type": "Church",
+        "Address": "5101 LAKESHORE DR W",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{7815BA33-7F8C-4E85-B540-B72EB6C1B5C2}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.739632929504722, 30.102609417372872]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3628,
+        "Name": "St. Michael & All Angels Anglican Church",
+        "Type": "Church",
+        "Address": "5041 LAKESHORE DR W",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{E5650AE8-E60A-4BBE-A195-5F574765F451}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.740226143100131, 30.104914012123714]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3629,
+        "Name": "St. Luke Missionary Baptist Church",
+        "Type": "Church",
+        "Address": "6631 PINE AV",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{01A074E7-DF0C-4F9D-8DD4-FDF6E86C0542}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.699789503294269, 30.073908128646764]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3630,
+        "Name": "Green Cove Springs Church of Christ",
+        "Type": "Church",
+        "Address": "3650 RUSSELL RD",
+        "Notes": "Vacant Church Property (12/8/2010",
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{E635B41A-559B-44BD-B694-C15CD7AE5784}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.720744748265261, 30.030380908059541]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3631,
+        "Name": "Green Cove Springs Church Of God",
+        "Type": "Church",
+        "Address": "3218 HIGHWAY 17",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{0FBE17BC-AD5A-4B2A-A26E-EDB1BDDB5F83}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.709626382433896, 30.025860071814321]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3632,
+        "Name": "Springs Baptist Church",
+        "Type": "Church",
+        "Address": "1106 N ORANGE AV",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{01EC4037-7F2F-409A-BB0E-730415052312}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.688499486741378, 30.005474982565389]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3633,
+        "Name": "Mt. Zion A.M.E. Church",
+        "Type": "Church",
+        "Address": "549 N PALMETTO AV",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{DD90141E-11EF-4999-B854-D54BAEAAEAB6}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.684568883394078, 29.999791497400444]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3634,
+        "Name": "First Baptist Church",
+        "Type": "Church",
+        "Address": "106 LEWIS DR",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{D22CCA88-D356-4306-9529-6C65D5AF4776}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.6784084625872, 29.99805325829541]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3635,
+        "Name": "Episcopal Church",
+        "Type": "Church",
+        "Address": "400 ST JOHNS AV",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{52DF174B-14D4-4F08-A382-52C30DDC68A0}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.677840567758651, 29.997148197965103]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3636,
+        "Name": "First Presbyterian Church",
+        "Type": "Church",
+        "Address": "401 N MAGNOLIA AV",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{C80D704F-6CA0-4006-AACB-4987D6350B0F}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.679849051552935, 29.996775528041681]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3637,
+        "Name": "New Life Temple Fellowship",
+        "Type": "Church",
+        "Address": "508 N PINE ST",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{6FDFC84D-F28E-4DED-8917-506A92C0BA15}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.683635059635165, 29.997849468254827]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3638,
+        "Name": "First African Baptist Church",
+        "Type": "Church",
+        "Address": "431 N PALMETTO AV",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{D8C016E6-BAF3-463A-8AE5-FF3A83BF2457}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.682723321274921, 29.997579160774436]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3639,
+        "Name": "Little Rock Baptist Church",
+        "Type": "Church",
+        "Address": "809 WALBURG ST",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{10158BE2-E536-469B-9CA3-EA8A9E9E5CC5}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.687304015102612, 29.997918262540182]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3640,
+        "Name": "Church of God In Christ",
+        "Type": "Church",
+        "Address": "708 MARTIN LUTHER KING JR BLVD",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{DA1E3A7E-D2A3-40D7-A925-78DF36D098CD}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.685214496800072, 29.997266532167473]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3641,
+        "Name": "Refuge Church",
+        "Type": "Church",
+        "Address": "525 RAILROAD AV",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{90E247F3-FCF2-4C33-B183-F64F858A6B8E}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.685827559912184, 29.996214307591433]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3642,
+        "Name": "United Methodist Church",
+        "Type": "Church",
+        "Address": "500 WALNUT ST",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{8897711B-BD96-4099-8188-4BF6449AAA37}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.680797718096485, 29.993384540720701]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3644,
+        "Name": "First Baptist Church",
+        "Type": "Church",
+        "Address": "615 WALNUT ST",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{7EE9DF99-5201-4E40-8049-F6D634983DBE}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.68206401742242, 29.992552144884819]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3645,
+        "Name": "Temple Soul Winning",
+        "Type": "Church",
+        "Address": "607 WALNUT ST",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{19300D0E-4D02-4E6F-A528-DDF76581B9DD}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.681569816812228, 29.992775847510902]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3646,
+        "Name": "Sacred Heart Church",
+        "Type": "Church",
+        "Address": "207 S PALMETTO AV",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{3F7595D6-0568-44A0-A1CF-DCEB11D1540D}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.680050066436095, 29.99128619182742]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3647,
+        "Name": "Celebration Fellowship Church",
+        "Type": "Church",
+        "Address": "806 OAK ST",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{8F8C6890-F1EC-49FE-8AE7-99C437F819E8}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.683537832286078, 29.98852975273125]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3648,
+        "Name": "Living Waters Worship Center",
+        "Type": "Church",
+        "Address": "1104 IDLEWILD AV",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{AF058253-EFA4-4E54-BDE8-1B2F48A365B7}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.688151556296816, 29.98935341983228]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3649,
+        "Name": "Sunrise First Baptist",
+        "Type": "Church",
+        "Address": "1015 IDLEWILD AV",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{B8EDDA24-6191-4799-AAD9-4BB2390FC5EA}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.687014815272306, 29.989232637317087]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3650,
+        "Name": "Faith Chapel Pentecostal Holiness Church",
+        "Type": "Church",
+        "Address": "400 S VERMONT AV",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{20660E14-5443-490A-9C39-8A24EF21B496}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.691809464633053, 29.985531250765604]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3651,
+        "Name": "Christian Fellowship",
+        "Type": "Church",
+        "Address": "502 HIGHLAND AV",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{8683450A-2C19-43A8-8826-6816F918400A}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.692319999591319, 29.983221789127313]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3652,
+        "Name": "Victorious Life Church",
+        "Type": "Church",
+        "Address": "520 S OAKRIDGE AV",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{18C3A96F-B079-49F2-B57C-6E01F41FD9C7}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.694185849335042, 29.981621704970312]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3653,
+        "Name": "Hickory Grove Baptist Church",
+        "Type": "Church",
+        "Address": "310 S OAKRIDGE AV",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{A2E54F66-D81D-41C9-960B-E968A2957AC9}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.695105238097597, 29.984765752060945]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3654,
+        "Name": "Mt. Pleasant Missionary Baptist Church",
+        "Type": "Church",
+        "Address": "1300 MARTIN LUTHER KING JR BLVD",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{E0814B67-B393-4C90-AA67-9F2778F015FB}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.69422205944997, 29.994782321528128]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3655,
+        "Name": "Sunshine Holiness Church",
+        "Type": "Church",
+        "Address": "1215 MARTIN LUTHER KING JR BLVD",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{7819C472-15CC-41CB-BC7B-23E43713A48E}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.692550523565998, 29.994815641541933]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3656,
+        "Name": "New Trinity Baptist Church",
+        "Type": "Church",
+        "Address": "SPRUCE ST",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{BB606260-0F74-4B61-ADD8-75CF6163CFF3}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.692547747072382, 29.99428567556582]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3657,
+        "Name": "Burney Daniel",
+        "Type": "Church",
+        "Address": "1033 MARTIN LUTHER KING JR BLVD",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{02BD7EBE-86D5-4338-8DA1-AD1313AC449A}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.688820377440067, 29.995918596527655]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3658,
+        "Name": "Decoy Baptist Church",
+        "Type": "Church",
+        "Address": "671 DECOY RD",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{A64A4B87-5502-4020-A184-D70B2B1FC945}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.653011348085428, 29.852788902456965]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3659,
+        "Name": "First Pentecostal Church",
+        "Type": "Church",
+        "Address": "5945 US HWY 17 S",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{FB05E0A3-38C9-4AB3-8F10-FE0B5D3384C5}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.663442397808041, 29.871999210053669]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3660,
+        "Name": "First Pentecostal Church",
+        "Type": "Church",
+        "Address": "5757 HIGHWAY 17 S",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{A0C39FC8-552F-4C78-89B1-8D8784330022}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.663869636943659, 29.884439433182585]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3661,
+        "Name": "Shiloh Baptist Church",
+        "Type": "Church",
+        "Address": "1055 COUNTY ROAD 226",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{DD5388E3-0B69-4021-BE90-AE5D56C7B6D0}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.680666516744807, 29.923284994847918]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3663,
+        "Name": "Little Ruth Baptist Church",
+        "Type": "Church",
+        "Address": "1046 LITTLE RUTH RD",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{829E403E-28BB-40E1-9646-905A345E9430}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.681095260040053, 29.927657512363975]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3664,
+        "Name": "Faith Baptist Church",
+        "Type": "Church",
+        "Address": "4330 COUNTY ROAD 15A",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{1E404E02-4895-407C-96B6-DDE348BCAFCF}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.693983146215317, 29.962211518444931]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3665,
+        "Name": "Congregational Holiness Church",
+        "Type": "Church",
+        "Address": "2079 SR 16 W",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{E7F644D4-15F0-45A4-BEA5-20208951CA5A}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.716168918118214, 29.983338643038032]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3666,
+        "Name": "Grace Baptist Church",
+        "Type": "Church",
+        "Address": "4411 SPRINGBANK RD",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{A85478D6-37FF-4620-A92D-66ACD942BFB1}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.738794097626311, 29.954105388787109]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3667,
+        "Name": "Sharon Baptist Church",
+        "Type": "Church",
+        "Address": "5584 SHARRON RD",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{3B9A5796-2CE0-4A1D-9C09-B50867A49756}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.805717662197608, 29.907358286242957]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3668,
+        "Name": "Glorious Church of Jesus",
+        "Type": "Church",
+        "Address": "4085 PIER STATION RD E",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{5AA0A03B-6F4F-47BB-B26B-DD4799693D43}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.768575382707354, 29.979954452970453]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3669,
+        "Name": "Kingdom Of God Tabernacle Holiness Church",
+        "Type": "Church",
+        "Address": "2891 STATE ROAD 16 W",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{989CB132-9E5B-4E52-B2FB-6EEB37F06963}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.769459926087563, 29.982668564754501]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3670,
+        "Name": "First Baptist Holiness",
+        "Type": "Church",
+        "Address": "2965 STATE ROAD 16 W",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{C4111FC8-A14A-49D8-849C-D9B39047757C}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.772189204903611, 29.982692316853221]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3671,
+        "Name": "New Bethel Baptist Church",
+        "Type": "Church",
+        "Address": "2040 PIER STATION RD W",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{7409DC4A-0BAE-4EB5-9BBC-1FDE4D79389E}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.773604742590905, 29.9825094192961]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3672,
+        "Name": "Penny Farms Church",
+        "Type": "Church",
+        "Address": "4465 POLING BLVD",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{B397E0A0-5F21-4D11-8784-3B457A79FB6C}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.807094242650109, 29.977667692041312]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3673,
+        "Name": "New Hope Baptist Church",
+        "Type": "Church",
+        "Address": "4395 PALMETTO AV",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{3FA26391-B65C-4062-A606-77C8EA2987EA}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.81954450306614, 29.978748788298656]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3674,
+        "Name": "Kingdom Hall of Jehovahs Witnesses",
+        "Type": "Church",
+        "Address": "3860 STATE ROAD 16 W",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{ED109E15-2325-4141-B972-3B2FE92A22C8}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.839988999411744, 29.982936582870874]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3675,
+        "Name": "Black Creek Baptist",
+        "Type": "Church",
+        "Address": "3904 STATE ROAD 16 W",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{FE0CAEB6-8246-44FD-8A1F-DA0641EC4239}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.843676226448864, 29.982523486116005]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3676,
+        "Name": "Beulah Baptist Church",
+        "Type": "Church",
+        "Address": "4579 STATE ROAD 21",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{8F4225B1-F0DA-419D-BF5D-FCF1F847FDD3}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.896783797226021, 29.93853032532709]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3677,
+        "Name": "Kingsley Lake Baptist Church",
+        "Type": "Church",
+        "Address": "6289 MARY DOT LN",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{A7385FEC-2A80-4044-A6C9-30535D9B73AE}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.01546095230043, 29.969510980317214]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3678,
+        "Name": "Gadara Baptist Church",
+        "Type": "Church",
+        "Address": "6779 COUNTY ROAD 315C",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{0A5D62ED-3E9A-4639-8F91-D57BFFB7AD3A}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.92190145393036, 29.817430704789658]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3679,
+        "Name": "Lake Hill Baptist Church",
+        "Type": "Church",
+        "Address": "5165 COUNTY ROAD 214",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{E6FA99FE-3961-44D3-80C6-A0297FCEF41F}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.942740573575634, 29.790377401169145]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3680,
+        "Name": "Abilene Missionary Baptist Church",
+        "Type": "Church",
+        "Address": "187 PUTNAM LOOP",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{2E4A9CA1-24EE-4845-96F6-6CAE5E4AD03D}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.957441877224525, 29.74771576632175]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3681,
+        "Name": "Pentecostal Holiness Church",
+        "Type": "Church",
+        "Address": "6865 STATE ROAD 21",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{72F9D8DD-76FE-41B8-97FC-C2E08F3C4026}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.997441335906302, 29.818105667208634]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3682,
+        "Name": "Keystone Church of Christ",
+        "Type": "Church",
+        "Address": "6963 STATE ROAD 21",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{BAEC0A5E-F92E-4E40-B386-92D9D69520C3}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.002387053318145, 29.814031175729813]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3683,
+        "Name": "Freedom Baptist Church",
+        "Type": "Church",
+        "Address": "7207 STATE ROAD 21",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{3E285006-F325-4135-AE6E-B30B91044CCB}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.01639956384146, 29.801979386617457]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3684,
+        "Name": "Fresh Start Fellowship",
+        "Type": "Church",
+        "Address": "7191 STATE ROAD 21",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{767DD62F-F2AE-44E4-AFD4-4929F18D61A3}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.015551987791937, 29.802515127231143]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3686,
+        "Name": "St. Anne's Episcopal Church",
+        "Type": "Church",
+        "Address": "201 SW MAGNOLIA AV",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{02F4AB3F-646A-49B7-B4E7-4C4243EF8F35}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.031903696887625, 29.783970900037907]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3687,
+        "Name": "Community Church of Keystone",
+        "Type": "Church",
+        "Address": "345 SE PALMETTO AV",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{5D9EB767-3950-4F8A-BCD1-A867D443B5DB}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.029294616542657, 29.783324173272497]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3688,
+        "Name": "First Baptist Church",
+        "Type": "Church",
+        "Address": "550 E WALKER DR",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{D13CCEA1-0CD5-4C6D-B9FA-FC55EDE594FB}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.025709701421064, 29.781422450087938]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3689,
+        "Name": "St. Williams Catholic Church",
+        "Type": "Church",
+        "Address": "275 SW SATSUMA ST",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{78D1025A-1AB6-4943-A77E-2A67CFE81F14}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.036063178315388, 29.777457782161804]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3690,
+        "Name": "Friendship Bible Church",
+        "Type": "Church",
+        "Address": "1155 ORCHID AV",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{7FEC36EE-7573-4EAA-98AB-4E60542A72B0}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.043369455833783, 29.77451234136133]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3691,
+        "Name": "Friendship Bible Church",
+        "Type": "Church",
+        "Address": "1137 ORCHID AV",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{D8CD66C0-B01B-4762-AB23-496F1A0A9507}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.043341988902014, 29.775721657368525]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3692,
+        "Name": "Lake Area Bible Church",
+        "Type": "Church",
+        "Address": "7085 COUNTY ROAD 214",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{AE3A3C7F-527F-4E96-8DC2-C4250DA06A4F}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.041330302233902, 29.75367248662662]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3693,
+        "Name": "Melrose Church of Christ",
+        "Type": "Church",
+        "Address": "8702 STATE ROAD 21",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{BDF53194-A113-4CBD-9066-E1E7FBD55B39}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.047812455866065, 29.72773112625573]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3694,
+        "Name": "Believers Worship Center Church of God",
+        "Type": "Church",
+        "Address": "8736 STATE ROAD 21",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{45724C08-28C8-4F7F-BFC8-A2DAF180D088}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.047342388189733, 29.725349452041609]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3695,
+        "Name": "First Assembly of God",
+        "Type": "Church",
+        "Address": "8025 STATE ROAD 100",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{D397A0DB-8943-41A9-AD53-1E2A892266F9}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.004589347680295, 29.765202964922999]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3696,
+        "Name": "Oak Grove Baptist Church",
+        "Type": "Church",
+        "Address": "3647 COUNTY ROAD 215",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{3643DD17-8B14-405F-8315-1E793120417A}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.932697332500325, 30.010408105448754]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3697,
+        "Name": "First Assembly of God",
+        "Type": "Church",
+        "Address": "3167 COUNTY ROAD 215",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{1922FD0D-291A-40C4-869B-3B2CCC9BD004}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.903031027465815, 30.031224508987908]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3698,
+        "Name": "Middleburg Church of Christ",
+        "Type": "Church",
+        "Address": "3155 COUNTY ROAD 215",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{094105B4-8668-4538-95C3-FFC7828B11B8}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.901866926085447, 30.032201967784506]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3699,
+        "Name": "Middleburg Presbyterian Church",
+        "Type": "Church",
+        "Address": "4564 ROSEMARY ST",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{F8967A99-7205-4FB7-AE8A-7A6DEAC1E95E}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.895593171436303, 30.042526580987303]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3700,
+        "Name": "South Middleburg Baptist Church",
+        "Type": "Church",
+        "Address": "4565 ALLIGATOR BLVD",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{D81730F2-6B9B-4A39-8733-7B404C20A29B}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.897904156776562, 30.039828560572435]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3701,
+        "Name": "Gainesville Community Holiness Church",
+        "Type": "Church",
+        "Address": "2753 FORMAN CIR",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{501ECFEC-F4C4-4FA4-AE9C-BDB68F62A143}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.890732780352252, 30.051940836507864]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3702,
+        "Name": "Jesus Church of Deliverance",
+        "Type": "Church",
+        "Address": "2782 FORMAN CIR",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{0AA2AF0A-9F12-4A3E-B50E-C0A85C3CC2AD}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.890424083443719, 30.050309888043806]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3703,
+        "Name": "Middleburg Church of God",
+        "Type": "Church",
+        "Address": "2728 HOWARD RD",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{A1BDF610-4796-4365-A116-302B78CB5DDD}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.885635823801465, 30.049660623607839]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3704,
+        "Name": "St. Marks Baptist Church",
+        "Type": "Church",
+        "Address": "2703 FORMAN CIR",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{F3E66474-2203-48C0-B0B2-E98D5823E692}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.888579262616716, 30.054044478586153]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3705,
+        "Name": "Independent Church of God",
+        "Type": "Church",
+        "Address": "4366 LONGMIRE RD",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{EF1F4F14-9DDC-4FF1-A6C9-439ACF53BB57}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.89145441755872, 30.054261705175399]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3706,
+        "Name": "St Mark Missionary Baptist",
+        "Type": "Church",
+        "Address": "2702 FORMAN CIR",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{5CD10375-94CE-471A-A519-86EF0A1817D4}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.888199271046545, 30.055009439987952]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3707,
+        "Name": "Cinnamon Street Baptist Church",
+        "Type": "Church",
+        "Address": "20 CINNAMON ST",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{82FDDAB1-0E95-4DE8-B0E5-64851F9F16D7}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.900765873780713, 30.064077597049256]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3709,
+        "Name": "The Church of Jesus Christ of Latter-day Saints",
+        "Type": "Church",
+        "Address": "4342 COUNTY ROAD 218",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{208B64BB-BF01-42A0-A555-6C57B1F98CBD}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.897243374505948, 30.063545827165182]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3710,
+        "Name": "First Baptist Church of Middleburg",
+        "Type": "Church",
+        "Address": "2645 BLANDING BLVD",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{4F995922-F2FE-4109-BE2F-6C6738DBF78A}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.871608693238926, 30.062365748652162]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3711,
+        "Name": "Christian Faith Center",
+        "Type": "Church",
+        "Address": "4021 EVERETT AV",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{6D60F0EB-7A6F-4013-9ED6-35C5E8296114}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.868356861127623, 30.06859164290864]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3712,
+        "Name": "Middleburg United Methodist Church",
+        "Type": "Church",
+        "Address": "3925 MAIN ST",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{676A95E6-46D0-44B5-A2E9-2D71757EF9E0}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.861392175443569, 30.067785029168899]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3713,
+        "Name": "Morningstar Family Church",
+        "Type": "Church",
+        "Address": "3900 MAIN ST",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{E2C3247F-DF1B-4749-B613-4F04FF418CC0}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.86064119706775, 30.069347366471661]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3714,
+        "Name": "Clay Hill Church of God",
+        "Type": "Church",
+        "Address": "5075 COUNTY ROAD 218",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{D64F1281-9D94-4BA1-8A80-C57E344245EC}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.944131379421421, 30.086321167816731]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3715,
+        "Name": "Evangel Temple Assembly of God",
+        "Type": "Church",
+        "Address": "5040 COUNTY ROAD 218",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{544EDF4D-E20F-4DD2-88F6-7ADB95931956}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.940800708640083, 30.08474863715206]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3716,
+        "Name": "Church of God Prophecy",
+        "Type": "Church",
+        "Address": "5845 COUNTY ROAD 218",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{05AD873B-2C1A-44C0-AB79-2939DC910C52}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.99037493987214, 30.114477872998066]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3717,
+        "Name": "Clay Hill Baptist Church",
+        "Type": "Church",
+        "Address": "6054 COUNTY ROAD 218",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{20993806-1784-4A92-97FE-99DBE3A30C02}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.9983953140202, 30.126024295716061]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3718,
+        "Name": "Highland First Baptist Church",
+        "Type": "Church",
+        "Address": "1409 HIGHWAY 301",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{252CC088-F380-4049-BED2-89026F6C51B7}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.048329238745907, 30.111611373607481]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3719,
+        "Name": "Black Creek Church of Christ",
+        "Type": "Church",
+        "Address": "3216 COUNTY ROAD 218",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{6108FA94-A32D-41DC-BCAE-7118E338CB5A}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.819617510669474, 30.033074973137435]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3720,
+        "Name": "Lake Asbury Baptist Church",
+        "Type": "Church",
+        "Address": "2674 HENLEY RD",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{25A70E72-2B84-4BA6-9040-EC328D178801}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.810180823458154, 30.059423949066247]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3721,
+        "Name": "Russell Baptist Church",
+        "Type": "Church",
+        "Address": "2299 SANDRIDGE RD",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{CC6293BA-0D2B-4DB9-B1EB-E4655691D226}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.761032018840353, 30.051311794015248]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3722,
+        "Name": "Church of The Brethren",
+        "Type": "Church",
+        "Address": "1651 RUSSELL RD",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{26CF8F1C-DC63-4E08-91B2-1DCBD658CC6B}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.809278260453354, 30.096409742574526]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3723,
+        "Name": "Ressurection Christan Life",
+        "Type": "Church",
+        "Address": "3114 CR 220",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{4DA730AF-4276-45A6-BBC6-C150DD8A6A47}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.809418054147102, 30.097569973065347]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3724,
+        "Name": "Crossroads Baptist Church",
+        "Type": "Church",
+        "Address": "1595 BAXLEY RD",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{21696CA3-B167-4B3B-87CC-37E75C4AB0E7}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.830260745960771, 30.099390361758608]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3725,
+        "Name": "Living Waters of Middleburg",
+        "Type": "Church",
+        "Address": "1871 BLANDING BLVD",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{E8AE3675-9598-492F-AB83-058B5BAD7B26}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.833118697499401, 30.100921761459652]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3726,
+        "Name": "Black Pond Baptist Church",
+        "Type": "Church",
+        "Address": "3644 OLD JENNINGS RD",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{406870A6-C23F-40D7-B4BA-4E4EB87BE63C}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.847865114163781, 30.114761696478627]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3727,
+        "Name": "Calvary Baptist Church",
+        "Type": "Church",
+        "Address": "1530 LONG BAY RD",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{2CB06BCE-B95F-47EF-85A6-D440CFF87848}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.865178748945908, 30.098851834443273]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3728,
+        "Name": "First Church of God",
+        "Type": "Church",
+        "Address": "3965 OLD JENNINGS RD",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{D1E86146-08D0-4E02-8374-2A6335303E7D}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.865346485158838, 30.11345519513932]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3729,
+        "Name": "The Church of the Good",
+        "Type": "Church",
+        "Address": "3813 OLD JENNINGS RD",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{72F1A57B-2000-4784-B834-A57CDC87A21C}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.857885992844402, 30.113609841001143]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3730,
+        "Name": "Long Branch Baptist Church",
+        "Type": "Church",
+        "Address": "5500 LONG BRANCH CEMETERY RD",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{8B299801-A247-4913-B411-161A34541A43}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.965608660710771, 30.159658892569922]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3731,
+        "Name": "Oakleaf Baptist Church",
+        "Type": "Church",
+        "Address": "800 OAKLEAF PLANTATION PKWY",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{AC871D30-1FA1-4D8D-9DDC-15838018EF67}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.853289921097257, 30.170152504940621]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3732,
+        "Name": "Branan Field Baptist Church",
+        "Type": "Church",
+        "Address": "908 BRANAN FIELD RD",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{C32D1BC6-2C87-4F72-A9E3-A85A8051AC72}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.832398993647203, 30.151190462341852]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3733,
+        "Name": "Lakeside Community Church",
+        "Type": "Church",
+        "Address": "564 TARA FARMS DR",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{56EFF4F9-B836-411B-BFDC-FABE00FD420E}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.779246818509733, 30.099668815230039]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3734,
+        "Name": "Wesleyan Church",
+        "Type": "Church",
+        "Address": "582 PLANTATION DR",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{8FE66AF1-A629-4D44-A399-6B41291D1A1A}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.776532161100207, 30.098138935469027]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3735,
+        "Name": "St. John's Missionary Baptist Church",
+        "Type": "Church",
+        "Address": "135 BRICKYARD RD",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{71F8DD14-1094-4BA4-8B42-19C8B747BEB9}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.772820116712367, 30.108816368004405]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3736,
+        "Name": "Doctor's Inlet Church of God",
+        "Type": "Church",
+        "Address": "144 OLD JENNINGS RD",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{A2E1CEE4-3C5A-4AF5-8622-477FBE9248AD}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.780418072221664, 30.115524234520301]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3737,
+        "Name": "Fellowship Bible Church",
+        "Type": "Church",
+        "Address": "2827 COUNTY ROAD 220",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{0571045F-6EE4-4EC0-A66E-5161B664C99C}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.793425108443913, 30.104403791662818]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3738,
+        "Name": "Pinewood Presbyterian Church",
+        "Type": "Church",
+        "Address": "198 KNIGHT BOXX RD",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{634E37CD-7593-4415-ADE0-16D00FD0958F}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.798089352123398, 30.110296017413571]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3739,
+        "Name": "Annunciation Catholic Church",
+        "Type": "Church",
+        "Address": "1606 Blanding Blvd",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{E63889E4-4B4C-401E-828C-B1DA8AEF84E1}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.814707237142571, 30.11418575958638]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3740,
+        "Name": "St. Peter's Lutheran Church Middleburg",
+        "Type": "Church",
+        "Address": "1614 BLANDING BLVD",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{B0ED9F8B-B7DE-4787-AFB7-DCCD2CEA8687}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.818816052179344, 30.111707809115845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3741,
+        "Name": "Madeira Baptist Church",
+        "Type": "Church",
+        "Address": "1650 BLANDING BLVD",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{5C77BA62-3449-4B96-B0EF-0CDABB9887F8}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.820485741475963, 30.111850497494085]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3742,
+        "Name": "Highpoint Community Church",
+        "Type": "Church",
+        "Address": "84 KNIGHT BOXX RD",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{11CC0B33-F159-4834-A5D9-2312B28A219E}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.798478106806257, 30.118126497132938]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3743,
+        "Name": "Calvary Assembly of God",
+        "Type": "Church",
+        "Address": "9 KNIGHT BOXX RD",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{0E23B2C2-90BF-4D09-B407-FA2B334138BD}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.796815622582955, 30.122894183778413]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3744,
+        "Name": "Kingdom Hall Jehovah's Witnesses",
+        "Type": "Church",
+        "Address": "17 KNIGHT BOXX RD",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{8580CBC4-564F-4186-B3D2-01F777C19585}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.79633139156725, 30.122422692393744]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3745,
+        "Name": "Grace Freewill Baptist",
+        "Type": "Church",
+        "Address": "557 MADISON AV",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{16400FA2-69AA-4B43-B5B1-70F888CE19DC}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.800101024998654, 30.135665528439546]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3746,
+        "Name": "Grace Free Will Baptist Church",
+        "Type": "Church",
+        "Address": "942 OAK LN",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{CA4C3ECA-631D-4700-8D0A-00E822CAC903}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.79748501200973, 30.130337962438535]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3747,
+        "Name": "Good Samaritan Episcopal Church",
+        "Type": "Church",
+        "Address": "1150 BLANDING BLVD",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{417EE15D-9540-4D66-91F4-D767BF800F66}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.787263445324015, 30.131085575180013]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3748,
+        "Name": "New Beginnings Christian",
+        "Type": "Church",
+        "Address": "1134 BLANDING BLVD",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{99C0AD2A-7616-42FE-BDDC-1A7ADB915688}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.78619812375797, 30.131480076534643]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3749,
+        "Name": "Faith Ministries of Clay County",
+        "Type": "Church",
+        "Address": "406 JEFFERSON AV",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{52787B18-E989-4B0A-A45F-30581B7A7752}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.785267129490066, 30.134294422231729]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3750,
+        "Name": "Black Creek Baptist Church",
+        "Type": "Church",
+        "Address": "384 LOGAN AV",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{257FB616-401F-47DC-988B-5DD1E5EB8583}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.782075840044953, 30.134447251885558]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3751,
+        "Name": "Ridgewood Baptist Church",
+        "Type": "Church",
+        "Address": "939 BLANDING BLVD",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{B380FDE5-3B58-4ECC-ACD6-F9F51E9FC774}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.772766549169262, 30.138021345794002]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3752,
+        "Name": "Asbury United Methodist Church",
+        "Type": "Church",
+        "Address": "16 College Dr",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{963D8EEB-1C6E-4724-A20D-DA5AC9F728E3}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.774278348079477, 30.137321701975218]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3753,
+        "Name": "Church of the Nazarene",
+        "Type": "Church",
+        "Address": "3212 MOODY AV",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{F2793A73-9B36-4837-847C-89FD2240FD72}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.759004175469869, 30.140899707271522]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3755,
+        "Name": "St. Giles Presbyterian Church",
+        "Type": "Church",
+        "Address": "116 FOXRIDGE RD",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{342A1721-4DBB-4A33-BC38-A432058D5AA3}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.760989341020775, 30.146586897400859]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3756,
+        "Name": "Bible Baptist Church",
+        "Type": "Church",
+        "Address": "3060 MOODY AV",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{9BD9C75B-C100-42D3-839E-617D1DF5D9BA}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.755418240699427, 30.143940964242251]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3757,
+        "Name": "First Christian Church",
+        "Type": "Church",
+        "Address": "2876 MOODY AV",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{07802F29-D870-402B-A91B-2BF07DACC983}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.752017207122293, 30.147591764845558]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3758,
+        "Name": "Lakeside Church of Christ",
+        "Type": "Church",
+        "Address": "2539 MOODY AV",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{C8BAD7B3-3880-4B4C-AA82-E453CFA223B6}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.73212091864221, 30.152447243763984]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3759,
+        "Name": "Church of Jesus Christ Latter Day Saints",
+        "Type": "Church",
+        "Address": "461 BLANDING BLVD",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{1B8B908E-93D8-4023-B56B-4C32A248C380}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.746593221297871, 30.159948230946263]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3760,
+        "Name": "Community Bible Church of Orange Park",
+        "Type": "Church",
+        "Address": "505 BLANDING BLVD",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{4B984C5B-0B2C-4BB1-B56C-945FA156AAC5}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.746491193057565, 30.156740914673513]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3761,
+        "Name": "Advent Lutheran Church",
+        "Type": "Church",
+        "Address": "2156 LOCH RANE BLVD",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{FCBC08A1-44AF-4C53-9AFE-48565882B756}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.751175502462857, 30.16518877819885]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3762,
+        "Name": "The Springs Church",
+        "Type": "Church",
+        "Address": "317 BLANDING BLVD",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{59226E72-BBBE-4F42-A6D6-9CF71D4988E5}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.746015077072698, 30.168645311425163]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3763,
+        "Name": "Centro Cristiano Restauracion",
+        "Type": "Church",
+        "Address": "150 FOX VALLEY DR",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{E8425418-96DD-4353-AAD1-D280E1B794DF}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.741621165548452, 30.16315786740849]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3764,
+        "Name": "New Covenant Ministries",
+        "Type": "Church",
+        "Address": "530 MADERIA DR",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{223A3EEE-82A1-4054-AB34-023B471E96AB}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.735891076822227, 30.172140701826763]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3765,
+        "Name": "St. Catherine's Catholic Church",
+        "Type": "Church",
+        "Address": "1649 KINGSLEY AV",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{595C6520-F0CA-4A49-A353-075402ADAA38}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.731430722566543, 30.165646096266958]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3766,
+        "Name": "Calvary Methodist Church",
+        "Type": "Church",
+        "Address": "112 BLANDING BLVD",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{AC5E37A0-A1BF-43E0-B259-46F08F417F3E}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.740113193691343, 30.181969596759707]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3767,
+        "Name": "Church of God of Orange Park",
+        "Type": "Church",
+        "Address": "1276 GANO AV",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{5F5FB417-EF93-45F7-A1EA-75091B717212}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.720634978565428, 30.1705700489401]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3768,
+        "Name": "Kingsley Ave Church of Christ",
+        "Type": "Church",
+        "Address": "1365 KINGSLEY AV",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{6E39036D-43D1-45B6-8CF4-D39268CF6148}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.723143605338791, 30.165585854578438]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3769,
+        "Name": "Orange Park Assembly of God",
+        "Type": "Church",
+        "Address": "1324 KINGSLEY AV",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{FC6C15B2-ACCE-4D2C-94B8-F393BA388B04}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.721543513416961, 30.164961489265242]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3770,
+        "Name": "The Pentecostal Church",
+        "Type": "Church",
+        "Address": "1909 DEBARRY AV",
+        "Notes": "Noted as The Broach School of JAX Inc",
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{D5B504B9-5586-4913-8A47-098E927ACE15}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.720569710294697, 30.16635811796089]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3771,
+        "Name": "The Pentecostals of Orange Park",
+        "Type": "Church",
+        "Address": "1140 KINGSLEY AV",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{948876C8-A07D-4684-AF8E-B2F5CAB2A747}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.718109517717679, 30.164906535438782]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3772,
+        "Name": "New Hope Pentecostal Church",
+        "Type": "Church",
+        "Address": "920 GANO AV",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{53836EDF-9224-4FC6-83F8-A228AB49CFAD}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.713660806968491, 30.170910052626358]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3773,
+        "Name": "Abundant Life H.O.G.S.I.C.",
+        "Type": "Church",
+        "Address": "1804 MILLER ST",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{E31A2FFB-A8F0-44DB-9F25-E86652F5F8C7}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.713415745847357, 30.168393108748546]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3774,
+        "Name": "St. Simon Baptist Church",
+        "Type": "Church",
+        "Address": "1331 MILLER ST",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{61E0D669-8E4B-4316-B51C-7D08A1D9FBE0}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.711480446852406, 30.17383977532014]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3775,
+        "Name": "Church of Christ",
+        "Type": "Church",
+        "Address": "1211 MILLER ST",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{67E2D02B-7C01-45F9-83BB-D5A3E5376720}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.712510357668336, 30.175005821600369]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3776,
+        "Name": "Island View Baptist Church",
+        "Type": "Church",
+        "Address": "900 PARK AV",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{685369E2-1A3B-44B8-8BC3-F0A45EF9951F}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.702135566759964, 30.179651317973303]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3777,
+        "Name": "St. James A.M.E. Church",
+        "Type": "Church",
+        "Address": "535 MC INTOSH AV",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{5ED868B6-17CE-4E52-AC98-B257507CC90A}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.705814187501019, 30.167750270882248]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3778,
+        "Name": "St. John's Missionary Baptist Church",
+        "Type": "Church",
+        "Address": "1920 MOUND ST",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{E10E8D05-56D3-4471-A643-49B52C9F64F0}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.705043374259603, 30.166803492119374]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3779,
+        "Name": "Celebration Church",
+        "Type": "Church",
+        "Address": "512 KINGSLEY AV",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{A80C184D-A98A-43C3-9641-E89EF466710D}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.705118077695843, 30.16496576947678]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3780,
+        "Name": "Orange Park Presbyterian Church",
+        "Type": "Church",
+        "Address": "1905 PARK AV",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{1C43679E-8682-41E0-99F2-37EF2F557ED9}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.70026202045112, 30.167184556533908]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3781,
+        "Name": "Grace Episcopal Church",
+        "Type": "Church",
+        "Address": "245 KINGSLEY AV",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{1BFFDA87-009D-4E4A-8C22-229CED516610}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.700204849597185, 30.166348467381773]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3782,
+        "Name": "Orange Park Methodist Church",
+        "Type": "Church",
+        "Address": "2063 PARK AV",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{8444E869-52A9-4CA0-9859-82B5E483AC80}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.700602341339021, 30.164744673624497]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3783,
+        "Name": "Town of Orange Park Fuel Island",
+        "Type": "Government",
+        "Address": "700 Ash St",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{A18216F6-1EDD-47D4-9806-07269E2CE56D}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.708800857041084, 30.182452247991698]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3784,
+        "Name": "Public Work Fuel Island - Green Cove Springs",
+        "Type": "Government",
+        "Address": "5 Esplande",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{262CCF25-5058-4B41-8501-6947CB2C1D8E}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.68644604483157, 29.992970293896516]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3785,
+        "Name": "Public Work Fuel Island - Middleburg",
+        "Type": "Government",
+        "Address": "4003 Evertt Av",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{9F65EC67-0155-41DE-944A-50FEFFB16E1A}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.867772551228938, 30.068620876117507]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 4183,
+        "Name": "Heath Department Dental Clinic",
+        "Type": "Government",
+        "Address": "1343 Idlewild Av",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{3D76B459-239E-4AFF-9E6F-FC6AE32F6621}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.692402487474553, 29.987005984569791]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 4184,
+        "Name": "Heath Department Health Clinic",
+        "Type": "Government",
+        "Address": "1345 Idlewild Av",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{04C53725-C6EA-4F68-A4E5-D2D03AD4F7E7}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.692595988611515, 29.986804455073795]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 4983,
+        "Name": "School Board Fuel Island & Transportation",
+        "Type": "Government",
+        "Address": "3692 County Road 220",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{86F8CD00-3C8F-4FD5-992F-847357E8371D}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.846819531896202, 30.08999210031428]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 4985,
+        "Name": "F.H.P. Maintenance & Fuel Island",
+        "Type": "Law",
+        "Address": "3646 County Road 220",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{1AE5711E-F83B-455D-B32D-8C4A01B70BBD}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.843636738713201, 30.088755639973648]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 4986,
+        "Name": "School Board Fuel Island & Transportation",
+        "Type": "Government",
+        "Address": "1474 Green St",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{52F8A701-1830-427D-8D0C-BACA71305A14}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.684267046225855, 29.994154744336267]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 6183,
+        "Name": "YMCA-Barco Newton Family",
+        "Type": null,
+        "Address": "2057 Town Center Blvd",
+        "Notes": "Y.M.C.A.",
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{C1DFAD1F-21D3-44AD-80E6-E97078D90C38}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.718496190961815, 30.08216412125001]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 6184,
+        "Name": "Dye Clay Family YMCA",
+        "Type": null,
+        "Address": "3322 Moody Av",
+        "Notes": "Y.M.C.A.",
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{92C4E872-A134-4918-A4CD-3D3D20BC0997}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.762291976544589, 30.138093525253872]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 6185,
+        "Name": "City of Green Cove Springs Rec. Center",
+        "Type": "Government",
+        "Address": "415 Lemon St",
+        "Notes": "Rec. Center",
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{F0169BBB-7246-4C22-97E8-0D0475F9BED5}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.689125007647519, 29.994990524201476]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 6583,
+        "Name": "Immanuel Baptist Church",
+        "Type": "Church",
+        "Address": "80 Blanding Blvd",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{0A5872D4-7BF2-4AFC-BD0A-49FEC171C9B3}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.740087683081569, 30.184089512716259]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 6584,
+        "Name": "Moosehaven Chapel",
+        "Type": "Church",
+        "Address": "1701 Park Av",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{26B6A996-4585-4543-8E08-C7231CECEDC3}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.697997512061519, 30.168416814026703]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 6585,
+        "Name": "Park of The Palms Church",
+        "Type": "Church",
+        "Address": "753 Hebron Av",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{F5E3D0F0-8174-4EEB-AEAC-571C8E4A5F45}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.040116564675188, 29.792077286688837]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 7383,
+        "Name": "St. Vincent's Medical Center Clay County",
+        "Type": "Hospital",
+        "Address": "1670 St Vincents Way",
+        "Notes": "(904)602-1000",
+        "weblink": "http://www.jaxheath.com/",
+        "Location_I": 0.0,
+        "GlobalID": "{E51E446F-99BC-4387-906E-B0514B6E9AB0}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.832720335373352, 30.10883015098204]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 7384,
+        "Name": "Baptist Clay Medical Campus",
+        "Type": "Hospital",
+        "Address": "1771 Baptist Clay Dr",
+        "Notes": "(904)516-1000",
+        "weblink": "http://www.baptistjax.com/",
+        "Location_I": 0.0,
+        "GlobalID": "{C0C6B476-4820-4552-ACA0-6900103DB82B}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.710202192139064, 30.079054702625715]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 7785,
+        "Name": "Flagler Hospital",
+        "Type": "Hospital",
+        "Address": "400 Health Park Blvd",
+        "Notes": "(904)819-5155",
+        "weblink": "http://www.flaglerhospital.org/",
+        "Location_I": 0.0,
+        "GlobalID": "{46D169D2-713D-41BB-BE8B-984B7D030903}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.3177095388033, 29.863280339386733]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 7786,
+        "Name": "Baptist Medical Center Jacksonville",
+        "Type": "Hospital",
+        "Address": "800 Prudential Dr",
+        "Notes": "(904)202-2000",
+        "weblink": "http://www.baptistjax.com/",
+        "Location_I": 0.0,
+        "GlobalID": "{C8D932B4-B135-451F-890A-45694AEF367D}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.663895868937757, 30.31541964550393]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 7787,
+        "Name": "St. Vincent's Medical Center Riverside",
+        "Type": "Hospital",
+        "Address": "1 Shircliff Way",
+        "Notes": "(904)308-7300",
+        "weblink": "http://www.jaxhealth.com/",
+        "Location_I": 0.0,
+        "GlobalID": "{A086700B-E857-4E6B-B46E-627B0145CEB9}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.690199014791361, 30.30800557195877]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 7788,
+        "Name": "UF Health Jacksonville",
+        "Type": "Hospital",
+        "Address": "655 W 8th St",
+        "Notes": "(904)244-0411",
+        "weblink": "http://ufhealthjax.org",
+        "Location_I": 0.0,
+        "GlobalID": "{DC1C84E8-1AD4-421B-ADC2-C6287E7E491E}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.664591739479206, 30.348442375330144]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 7789,
+        "Name": "Memorial Hospital",
+        "Type": "Hospital",
+        "Address": "3625 University Blvd S",
+        "Notes": "(904)702-6111",
+        "weblink": "http://memorialhospitaljax.com",
+        "Location_I": 0.0,
+        "GlobalID": "{71C38192-9294-49D0-8C8E-9703F769B3CE}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.600710484453501, 30.288736745320026]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 7790,
+        "Name": "St. Vincentâ€™s Medical Center Southside",
+        "Type": "Hospital",
+        "Address": "4201 Belfort Rd",
+        "Notes": "(904)296-3700",
+        "weblink": "http://www.jaxhealth.com/",
+        "Location_I": 0.0,
+        "GlobalID": "{B2CB03A2-7C85-471C-B28D-2B47EA08B149}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.582395387672804, 30.253478233079946]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 7791,
+        "Name": "Baptist Medical Center Beaches",
+        "Type": "Hospital",
+        "Address": "1350 13th Av S",
+        "Notes": "(904)627-2900",
+        "weblink": "http://www.baptistjax.com/",
+        "Location_I": 0.0,
+        "GlobalID": "{014F6EDD-255C-4733-B8D3-F29CC37FED8A}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.398282103206824, 30.273415957178425]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 7792,
+        "Name": "Mayo Clinic Jacksonville",
+        "Type": "Hospital",
+        "Address": "4500 San Pablo Rd S",
+        "Notes": "(904)953-2021",
+        "weblink": "http://www.mayoclinic.org/",
+        "Location_I": 0.0,
+        "GlobalID": "{1B7724AC-2D4F-48EF-9A93-BC4F3D9C1A31}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.441335330335832, 30.26286177120549]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 7793,
+        "Name": "Baptist Medical Center South",
+        "Type": "Hospital",
+        "Address": "14550 Old St Augustine Rd",
+        "Notes": "(904)271-6000",
+        "weblink": "http://www.baptistjax.com/",
+        "Location_I": 0.0,
+        "GlobalID": "{2696A7DA-D171-4CD9-B769-E20734CD1BBF}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.534455845824581, 30.137748283536052]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 7794,
+        "Name": "Baptist Medical Center Nassau",
+        "Type": "Hospital",
+        "Address": "1250 South 18th St",
+        "Notes": "(904)321-3500",
+        "weblink": "http://www.baptistjax.com/",
+        "Location_I": 0.0,
+        "GlobalID": "{2BB4AC76-1DB5-46B5-AFAC-BD40AE4F6B91}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.448727036241067, 30.653152562855539]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 7795,
+        "Name": "Wolfson Childrenâ€™s Hospital",
+        "Type": "Hospital",
+        "Address": "800 Prudential Dr",
+        "Notes": "(904)202-8000",
+        "weblink": "http://wolfsonchildrens.org/",
+        "Location_I": 0.0,
+        "GlobalID": "{C8E7A19B-4239-48EF-BF4F-6D7F91797C53}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.662735640920801, 30.315842342163247]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 7796,
+        "Name": "Specialty Hospital",
+        "Type": "Hospital",
+        "Address": "4901 Richard Street",
+        "Notes": "(904)737-3120",
+        "weblink": "http://specialtyhospitaljax.com/",
+        "Location_I": 0.0,
+        "GlobalID": "{AA0B195C-22CD-4944-8834-7BCD7BFA009D}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.615394355089521, 30.27163013561702]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 8185,
+        "Name": "UF Health Shands Hospital",
+        "Type": "Hospital",
+        "Address": "1600 SW Archer Rd",
+        "Notes": "(352)265-0111",
+        "weblink": "http://www.ufhealth.org/",
+        "Location_I": 0.0,
+        "GlobalID": "{2863CE5A-B112-4017-A4D2-9FEF113EAD0D}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.342949980045617, 29.640108869249044]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 8186,
+        "Name": "Malcom Randall VA Medical Center",
+        "Type": "Hospital",
+        "Address": "1601 SW Archer Rd",
+        "Notes": "(352)376-1611",
+        "weblink": "http://www.northflorida.va.gov/locations/gainesville.asp",
+        "Location_I": 0.0,
+        "GlobalID": "{DE66E986-D89A-4F18-86B9-EFCEB2428EE4}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.342461517186521, 29.638880778258056]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 8187,
+        "Name": "North Florida Regional Medical Center",
+        "Type": "Hospital",
+        "Address": "6500 Newberry Rd",
+        "Notes": "(352)333-4000",
+        "weblink": "http://nfrmc.com/",
+        "Location_I": 0.0,
+        "GlobalID": "{9D05836D-BB4E-4D5C-83A6-B528697C7CAA}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.411584555220017, 29.660924892756761]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 8188,
+        "Name": "Shands Starke Regional Medical Center",
+        "Type": "Hospital",
+        "Address": "922 E Call St",
+        "Notes": "(904)368-2300",
+        "weblink": "http://www.shandsstarke.com/",
+        "Location_I": 0.0,
+        "GlobalID": "{4A0FA293-2619-48EB-9FFF-3EADA188D47F}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.101744139801383, 29.940274566759982]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 8189,
+        "Name": "Putnam Community Medical Center",
+        "Type": "Hospital",
+        "Address": "611 Zeagler Dr",
+        "Notes": "(386)328-5711",
+        "weblink": "http://www.pcmcfl.com/",
+        "Location_I": 0.0,
+        "GlobalID": "{4B3C89B9-FC42-4EB8-9753-FC98BE736373}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.692515029230123, 29.64238409846234]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 8190,
+        "Name": "Naval Hospital Jacksonville",
+        "Type": "Hospital",
+        "Address": "2080 Child Street",
+        "Notes": "(904)542-7300",
+        "weblink": "http://www.med.navy.mil/sites/navalhospitaljax",
+        "Location_I": 0.0,
+        "GlobalID": "{7639E8CD-D8E1-4F3B-9792-39A28063AFD7}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.68414152401877, 30.208775778317417]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 8191,
+        "Name": "Ed Fraser Memorial Hospital",
+        "Type": "Hospital",
+        "Address": "159 N 3rd St",
+        "Notes": "(904)259-3151",
+        "weblink": "http://www.bcmedsvcs.com/facilities-Fraser.aspx",
+        "Location_I": 0.0,
+        "GlobalID": "{9E84521A-82ED-402E-8AF4-F8356DEA7ED3}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.119183253181262, 30.286022087586378]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 8585,
+        "Name": "UF Health North",
+        "Type": "Hospital",
+        "Address": "15255 Max Leggett Parkway",
+        "Notes": "(904)383-1000",
+        "weblink": "http://ufhealthjax.org",
+        "Location_I": 0.0,
+        "GlobalID": "{A95FDBC1-EC65-4027-81C7-993C131977BB}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.633473521017521, 30.483997880672714]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 8586,
+        "Name": "Camp Blanding",
+        "Type": "HisMarker",
+        "Address": "5629 State Road 16 West",
+        "Notes": null,
+        "weblink": "http://apps.flheritage.com/markers/markers.cfm?ID=clay",
+        "Location_I": 10.0,
+        "GlobalID": "{776B4A9F-12AC-462C-919E-358DE76621B1}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.984858163739332, 29.980216002221582]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 8986,
+        "Name": "Thrasher-Horne Center for the Arts",
+        "Type": "Government",
+        "Address": "283 College Dr",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{DA77FEF8-E098-4F78-AF24-8941950D126B}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.77191403517719, 30.118486708085612]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 8987,
+        "Name": "Town of Orange Park",
+        "Type": "HisMarker",
+        "Address": "2042 Park Av",
+        "Notes": "On Town Hall Site",
+        "weblink": "http://apps.flheritage.com/markers/map/index.cfm?county=Clay",
+        "Location_I": 11.0,
+        "GlobalID": "{BBA6EC0C-460A-4E92-861B-3C6F2575271D}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.70176802043045, 30.165716087323574]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 9387,
+        "Name": "Abundant Joy Church",
+        "Type": "Church",
+        "Address": "1175 MILLER ST",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{3964E91B-91B2-4228-9891-42122E8DDBC9}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.712489145337003, 30.175297256447045]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 9787,
+        "Name": "Camp Chowenwaw",
+        "Type": "HisMarker",
+        "Address": "1517 Ball Rd",
+        "Notes": null,
+        "weblink": "http://apps.flheritage.com/markers/map/index.cfm?county=Clay",
+        "Location_I": 12.0,
+        "GlobalID": "{45B86885-A199-4EDC-A62A-64A37027A809}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.712265628983801, 30.037039511990208]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 9788,
+        "Name": "Hickory Grove Baptist Church and Cemetery",
+        "Type": "HisMarker",
+        "Address": "1831 Idlewild Av",
+        "Notes": null,
+        "weblink": "http://apps.flheritage.com/markers/map/index.cfm?county=Clay",
+        "Location_I": 13.0,
+        "GlobalID": "{368F0CEE-F80C-4510-A1E6-7AD7288473DC}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.701427551896003, 29.984506919848041]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 10187,
+        "Name": "Miltary Museum of North Florida",
+        "Type": "Museum",
+        "Address": "990 Roland Av",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{085832AE-4774-421B-A799-7A06DBC38584}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.653422247702423, 29.979750632225262]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 10987,
+        "Name": "General Roy Stanley Geiger, United States Marines",
+        "Type": "HisMarker",
+        "Address": "2645 Blanding Boulevard",
+        "Notes": null,
+        "weblink": "http://apps.flheritage.com/markers/",
+        "Location_I": 0.0,
+        "GlobalID": "{E378AE18-9B00-49A3-A124-2D36674CC4F1}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.871627535032331, 30.062950386960868]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 11387,
+        "Name": "R & J Tackle",
+        "Type": "Bait",
+        "Address": "501 S ORANGE AV",
+        "Notes": "Updated 7-26-2018",
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{706A4920-0172-40A0-8975-332DFFAE56EA}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.678330366577697, 29.989126716898014]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 11388,
+        "Name": "Whitey's Fish Camp",
+        "Type": "Bait",
+        "Address": "2032 COUNTY ROAD 220",
+        "Notes": "Updated 7-26-2018",
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{1716A0E3-D732-4DFB-BC00-9FD37F90E791}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.745776583300582, 30.10078061716117]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 11389,
+        "Name": "Black Creek Marina and Bait Shop",
+        "Type": "Bait",
+        "Address": "1470 RIVER LN",
+        "Notes": "Updated 7-26-2018",
+        "weblink": "http://www.doctorslakemarina.com/",
+        "Location_I": 0.0,
+        "GlobalID": "{414FB865-57BC-41C7-A525-BC1C76BD9843}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.708141261736742, 30.039665943194603]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 11390,
+        "Name": "Unkastuff Bait N Tackle",
+        "Type": "Bait",
+        "Address": "2124 PALMETTO ST",
+        "Notes": "Updated 7-26-2018",
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{09EE5B7F-1973-4D3A-AD50-116E0FE2D4B6}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.861427744413902, 30.069833920146969]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 11391,
+        "Name": "Bald Eagle Bait & Tackle",
+        "Type": "Bait",
+        "Address": "155 E WALKER DR",
+        "Notes": "Updated 7-26-2018",
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{2CCD9C0A-E896-4863-ABAB-DDACE19BBE7B}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.030250257052998, 29.784782968407651]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 11787,
+        "Name": "Green Cove Springs Marina",
+        "Type": "Marina",
+        "Address": "851 Bulkhead Rd",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{5F67E320-0931-4237-92A5-BF9D69E0F987}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.649791049792938, 29.982086377546029]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 12187,
+        "Name": "Reynolds Park Yacht Center",
+        "Type": "Marina",
+        "Address": "1063 Bulkhead Rd",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{DA12D640-57A5-4EC0-9CB6-E3C8DF3E06DD}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.664281948144037, 29.989269391166104]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 12188,
+        "Name": "Villas Continental & Yacht",
+        "Type": "Marina",
+        "Address": "2223 ASTOR ST",
+        "Notes": null,
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{5013FBDD-AD93-4CFE-964C-481A882B3552}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.696752540062917, 30.162044167817594]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 12587,
+        "Name": "Historical Magnolia Lakes State Park",
+        "Type": "HisMarker",
+        "Address": "SR 21 and Treat Rd",
+        "Notes": "The Historic Preservation Board Carolyn Morgan Long. 29.813244, Lat.-82.004423",
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{C1B41182-A833-4934-8B0F-2BC5D19A25B3}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.004423010601059, 29.813243993271918]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 12987,
+        "Name": "The Keystone Inn (demolished)",
+        "Type": "HisMarker",
+        "Address": "550 Lawrence Blvd S",
+        "Notes": "The Historic Preservation Board Carolyn Morgan Long. 29.780885 Lat.-82.031209",
+        "weblink": null,
+        "Location_I": 0.0,
+        "GlobalID": "{D6842AD3-9C4A-437B-90BC-FB4F4D267BA7}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.031131111669595, 29.780983888933722]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 832,
+        "Name": "Judge William Wilkes Judicial Complex",
+        "Type": "Government",
+        "Address": "825 Orange Av",
+        "Notes": "(904) 284/269-6302",
+        "weblink": "http://clerk.co.clay.fl.us/",
+        "Location_I": 0.0,
+        "GlobalID": "{41D6C670-9F00-4B1F-A817-AF9AB1F2E661}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.686042205718664, 30.002462670913896]
+      }
+    }
+  ]
+}

@@ -1,0 +1,1676 @@
+{
+  "type": "FeatureCollection",
+  "name": "Schools",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1,
+        "NAME": "Orange Park High School",
+        "Address": "2300 Kingsley Av",
+        "SchoolType": "High",
+        "SchoolOwne": "Pub",
+        "Notes": null,
+        "SchoolID": 1,
+        "GlobalID": "{EEE02FFC-1E13-4750-85E1-7152E13AB35B}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.744108424478995, 30.16376727952192]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2,
+        "NAME": "Fleming Island Elementary School",
+        "Address": "4425 Lake Shore Dr",
+        "SchoolType": "Elem",
+        "SchoolOwne": "Pub",
+        "Notes": null,
+        "SchoolID": 2,
+        "GlobalID": "{DAFB7C14-E6CB-48E5-AE63-EC7F8C7718BD}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.726643752483497, 30.113560737807681]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3,
+        "NAME": "Doctors Inlet Elementary School",
+        "Address": "2634 County Road 220",
+        "SchoolType": "Elem",
+        "SchoolOwne": "Pub",
+        "Notes": null,
+        "SchoolID": 3,
+        "GlobalID": "{268C5562-C63A-42F3-B508-9BDCC35CBA34}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.779829105548245, 30.101064288127077]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 4,
+        "NAME": "Tynes Elementary School",
+        "Address": "1550 Tynes Blvd",
+        "SchoolType": "Elem",
+        "SchoolOwne": "Pub",
+        "Notes": null,
+        "SchoolID": 4,
+        "GlobalID": "{0D3AF584-90B4-4DBA-8C28-F1CF12A3FA83}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.845550866848143, 30.118762087107271]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 5,
+        "NAME": "W E Cherry Elementary School",
+        "Address": "420 Edson Dr",
+        "SchoolType": "Elem",
+        "SchoolOwne": "Pub",
+        "Notes": null,
+        "SchoolID": 5,
+        "GlobalID": "{691EDAF1-EA66-435E-965F-A4B9E4BFB52E}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.734714220079397, 30.173870683008058]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 6,
+        "NAME": "Green Cove Springs Junior High School",
+        "Address": "1220 Bonaventure Av",
+        "SchoolType": "Mid",
+        "SchoolOwne": "Pub",
+        "Notes": null,
+        "SchoolID": 6,
+        "GlobalID": "{D053518E-501C-4081-913D-332157EAF9A9}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.69095490731678, 29.989254412599671]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 7,
+        "NAME": "Paterson Elementary School",
+        "Address": "5400 Pine Av",
+        "SchoolType": "Elem",
+        "SchoolOwne": "Pub",
+        "Notes": null,
+        "SchoolID": 7,
+        "GlobalID": "{9DE9A5BB-5B8D-4B3D-B41B-2B471146A0E6}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.699735418267295, 30.100150522001965]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 8,
+        "NAME": "S Bryan Jennings Elementary School",
+        "Address": "215 Corona Dr",
+        "SchoolType": "Elem",
+        "SchoolOwne": "Pub",
+        "Notes": null,
+        "SchoolID": 8,
+        "GlobalID": "{CF5AD967-5F8A-4D45-A9F1-2AF591F6C127}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.748472132955925, 30.178010912655438]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 9,
+        "NAME": "Argyle Elementary School",
+        "Address": "2625 Spencer Plantation Blvd",
+        "SchoolType": "Elem",
+        "SchoolOwne": "Pub",
+        "Notes": null,
+        "SchoolID": 9,
+        "GlobalID": "{9169C5C2-9F5F-4C2C-9F4B-A0FDF38F6282}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.788139228667404, 30.176996600349288]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 10,
+        "NAME": "Bannerman Learning Center School",
+        "Address": "608 Mill St",
+        "SchoolType": "High",
+        "SchoolOwne": "Pub",
+        "Notes": null,
+        "SchoolID": 10,
+        "GlobalID": "{3B48805B-0513-4DC8-B959-CECB1EC657FC}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.691315809507358, 29.996898620980041]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 11,
+        "NAME": "Clay Hill Elementary School",
+        "Address": "6345 County Road 218",
+        "SchoolType": "Elem",
+        "SchoolOwne": "Pub",
+        "Notes": null,
+        "SchoolID": 11,
+        "GlobalID": "{F992E68E-4EFB-4F55-A784-49A57D9DAB40}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.007823679325625, 30.144676813472557]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 12,
+        "NAME": "Grove Park Elementary School",
+        "Address": "1643 Miller St",
+        "SchoolType": "Elem",
+        "SchoolOwne": "Pub",
+        "Notes": null,
+        "SchoolID": 12,
+        "GlobalID": "{55712D3A-ABED-42F1-A3F0-42D2D6C62AB6}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.712830803313608, 30.169527006530188]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 13,
+        "NAME": "Middleburg Elementary School",
+        "Address": "3958 Main St",
+        "SchoolType": "Elem",
+        "SchoolOwne": "Pub",
+        "Notes": null,
+        "SchoolID": 13,
+        "GlobalID": "{89A13468-C87A-4987-9DBE-E6D65371BEB8}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.864831668199841, 30.068519351883698]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 14,
+        "NAME": "Ridgeview Elementary School",
+        "Address": "421 Jefferson Av",
+        "SchoolType": "Elem",
+        "SchoolOwne": "Pub",
+        "Notes": null,
+        "SchoolID": 14,
+        "GlobalID": "{2BD0DE48-8103-4EBA-BB20-224B13D45D14}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.786906190858232, 30.134173019020679]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 15,
+        "NAME": "Ridgeview High School",
+        "Address": "466 Madison Av",
+        "SchoolType": "High",
+        "SchoolOwne": "Pub",
+        "Notes": null,
+        "SchoolID": 15,
+        "GlobalID": "{ED968320-4B34-4DF7-ACD0-17CF3A4F81BD}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.794214256684143, 30.132233259385796]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 16,
+        "NAME": "Thunderbolt Elementary School",
+        "Address": "2020 Thunderbolt Rd",
+        "SchoolType": "Elem",
+        "SchoolOwne": "Pub",
+        "Notes": null,
+        "SchoolID": 16,
+        "GlobalID": "{4B688844-1A01-4190-AE43-2ADDBF0433B3}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.720958788459797, 30.084013640693296]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 17,
+        "NAME": "Fleming Island High School",
+        "Address": "2233 Village Square Pkwy",
+        "SchoolType": "High",
+        "SchoolOwne": "Pub",
+        "Notes": null,
+        "SchoolID": 17,
+        "GlobalID": "{8B7776B5-7697-464F-929D-803A5C699F24}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.711657358064429, 30.087322761242241]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 18,
+        "NAME": "Clay High School",
+        "Address": "2025 State Road 16 W",
+        "SchoolType": "High",
+        "SchoolOwne": "Pub",
+        "Notes": null,
+        "SchoolID": 18,
+        "GlobalID": "{28EDCBAB-FF73-4516-A484-D4B11F9ABD4A}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.712954259845532, 29.982690015397555]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 19,
+        "NAME": "Charles E Bennett Elementary",
+        "Address": "1 South Oakridge Av",
+        "SchoolType": "Elem",
+        "SchoolOwne": "Pub",
+        "Notes": null,
+        "SchoolID": 19,
+        "GlobalID": "{41543316-5CAF-47B7-94FD-BB04670FB1D7}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.697895750461484, 29.988318104917212]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 20,
+        "NAME": "Wilkinson Elementary",
+        "Address": "4965 County Road 218",
+        "SchoolType": "Elem",
+        "SchoolOwne": "Pub",
+        "Notes": null,
+        "SchoolID": 20,
+        "GlobalID": "{6806A893-5223-4E71-9EFF-D3D70B9D54A3}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.940740243750469, 30.081768570690169]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 21,
+        "NAME": "Wilkinson Junior High School",
+        "Address": "5025 County Road 218",
+        "SchoolType": "Mid",
+        "SchoolOwne": "Pub",
+        "Notes": null,
+        "SchoolID": 21,
+        "GlobalID": "{A118FA4A-6067-4344-BE7C-69DC106A4957}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.943913319367397, 30.083369893894417]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 22,
+        "NAME": "Middleburg High School",
+        "Address": "3750 County Road 220",
+        "SchoolType": "High",
+        "SchoolOwne": "Pub",
+        "Notes": null,
+        "SchoolID": 22,
+        "GlobalID": "{65541557-5D53-4CBD-A29F-D3D5114B05E4}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.850295677872097, 30.088737026890843]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 23,
+        "NAME": "Keystone Heights High School",
+        "Address": "900 S Orchid Av",
+        "SchoolType": "High",
+        "SchoolOwne": "Pub",
+        "Notes": null,
+        "SchoolID": 23,
+        "GlobalID": "{74DC39EC-AD3E-4B2A-82E5-479343640F5A}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.041857967237334, 29.779133747374733]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 24,
+        "NAME": "Lakeside Junior High",
+        "Address": "2750 Moody Rd",
+        "SchoolType": "Mid",
+        "SchoolOwne": "Pub",
+        "Notes": null,
+        "SchoolID": 24,
+        "GlobalID": "{186CF669-B82C-4413-A81A-3CF484C523A3}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.744484725600302, 30.150110210864387]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 25,
+        "NAME": "Lakeside Elementary School",
+        "Address": "2752 Moody Rd",
+        "SchoolType": "Elem",
+        "SchoolOwne": "Pub",
+        "Notes": null,
+        "SchoolID": 25,
+        "GlobalID": "{C75B2264-DF10-497E-BC26-A115D07BE604}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.746114331120665, 30.150002213233186]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 26,
+        "NAME": "Montclair Elementary School",
+        "Address": "2398 Moody Rd",
+        "SchoolType": "Elem",
+        "SchoolOwne": "Pub",
+        "Notes": null,
+        "SchoolID": 26,
+        "GlobalID": "{559538D3-586C-4973-ABB1-29C7970D8F0B}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.725188658006715, 30.15792180273414]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 27,
+        "NAME": "Orange Park Junior High School",
+        "Address": "1500 Gano Av",
+        "SchoolType": "Mid",
+        "SchoolOwne": "Pub",
+        "Notes": null,
+        "SchoolID": 27,
+        "GlobalID": "{3CE44EB0-9D45-49EB-87BE-2992368CD24C}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.727698357245899, 30.168000224052431]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 28,
+        "NAME": "Orange Park Elementary School",
+        "Address": "1401 Plainfield Av",
+        "SchoolType": "Elem",
+        "SchoolOwne": "Pub",
+        "Notes": null,
+        "SchoolID": 28,
+        "GlobalID": "{DEA8C47A-0B6C-4205-8CE6-5C467416DE9F}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.705364804503731, 30.172485739257443]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 29,
+        "NAME": "Swimming Pen Creek Elementary School",
+        "Address": "1630 Woodpecker Ln",
+        "SchoolType": "Elem",
+        "SchoolOwne": "Pub",
+        "Notes": null,
+        "SchoolID": 29,
+        "GlobalID": "{63B2071F-1B2F-458D-A6B6-F09BE08AC2F4}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.749661873325508, 30.097235930068429]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 30,
+        "NAME": "Rideout Elementary School",
+        "Address": "3065 Apalachicola Blvd",
+        "SchoolType": "Elem",
+        "SchoolOwne": "Pub",
+        "Notes": null,
+        "SchoolID": 30,
+        "GlobalID": "{448244E8-5AEC-496A-AB6E-7228A6B612FC}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.806864857134414, 30.093226164716679]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 31,
+        "NAME": "Lake Asbury Elementary School",
+        "Address": "2901 Sandridge Rd",
+        "SchoolType": "Elem",
+        "SchoolOwne": "Pub",
+        "Notes": null,
+        "SchoolID": 31,
+        "GlobalID": "{71A5C425-0ECB-4497-9A04-4AA9EA4AD84A}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.807343808464339, 30.045354611921574]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 32,
+        "NAME": "Lake Asbury Junior High School",
+        "Address": "2851 Sandridge Rd",
+        "SchoolType": "Mid",
+        "SchoolOwne": "Pub",
+        "Notes": null,
+        "SchoolID": 32,
+        "GlobalID": "{28D760A4-5BF4-44A8-B210-641A5A8AAFF9}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.803785974626123, 30.045403797964681]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 33,
+        "NAME": "Keystone Heights Elementary School",
+        "Address": "335 SW Pecan St",
+        "SchoolType": "Elem",
+        "SchoolOwne": "Pub",
+        "Notes": null,
+        "SchoolID": 33,
+        "GlobalID": "{082A369F-0D5A-446C-8866-CB155B9F4527}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.037458950792967, 29.779220113357489]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 34,
+        "NAME": "McRae Elementary School",
+        "Address": "6770 County Road 315C",
+        "SchoolType": "Elem",
+        "SchoolOwne": "Pub",
+        "Notes": null,
+        "SchoolID": 34,
+        "GlobalID": "{FC6BCD8C-1453-4F36-A1A1-A0F51374BCB7}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.923604838510329, 29.817492527171883]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 35,
+        "NAME": "St Johns Country Day School",
+        "Address": "3100 Doctors Lake Dr",
+        "SchoolType": "Elem_High",
+        "SchoolOwne": "PrivSACS",
+        "Notes": null,
+        "SchoolID": 35,
+        "GlobalID": "{F37C4E9F-B3E8-4559-B023-605DF0F80C97}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.742916215830633, 30.144325806676434]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 36,
+        "NAME": "Coppergate Elementary School",
+        "Address": "3460 Copper Colts Ct",
+        "SchoolType": "Elem",
+        "SchoolOwne": "Pub",
+        "Notes": null,
+        "SchoolID": 36,
+        "GlobalID": "{F19ACED9-A9E6-4B47-B832-566D57D1715A}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.814134735494036, 30.101540992586028]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 37,
+        "NAME": "Shadowlawn Elementary School",
+        "Address": "2945 County Road 218",
+        "SchoolType": "Elem",
+        "SchoolOwne": "Pub",
+        "Notes": null,
+        "SchoolID": 37,
+        "GlobalID": "{A591877E-81CE-4EAF-8E5D-B0EB8896C824}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.813142007823899, 30.015282519920074]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 38,
+        "NAME": "Oakleaf Junior High",
+        "Address": "4085 Plantation Oaks Blvd",
+        "SchoolType": "Mid",
+        "SchoolOwne": "Pub",
+        "Notes": null,
+        "SchoolID": 38,
+        "GlobalID": "{0781B8F4-8DE3-4248-B30B-9043FE69366A}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.839191736263771, 30.174924967671299]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 39,
+        "NAME": "Oakleaf Village Elementary School",
+        "Address": "410 Oakleaf Village Pkwy",
+        "SchoolType": "Elem",
+        "SchoolOwne": "Pub",
+        "Notes": null,
+        "SchoolID": 39,
+        "GlobalID": "{74445023-7002-4356-B90B-A377B61093ED}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.820069980044579, 30.179720540031084]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 40,
+        "NAME": "Friendship Christian Academy",
+        "Address": "1155 Orchid",
+        "SchoolType": "Elem_Mid",
+        "SchoolOwne": "PrivNone",
+        "Notes": null,
+        "SchoolID": 40,
+        "GlobalID": "{8CB06C72-344C-47F3-B8F4-3645147B74AF}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.043389969575287, 29.774590945232855]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 42,
+        "NAME": "Community Christian School",
+        "Address": "345 SE Palmetto Av",
+        "SchoolType": "Elem_Mid",
+        "SchoolOwne": "PrivNone",
+        "Notes": null,
+        "SchoolID": 42,
+        "GlobalID": "{E70CC6F4-F4E2-422E-9A80-964CA28C226C}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.029099844011668, 29.783141468912341]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 43,
+        "NAME": "Morningstar Christian School",
+        "Address": "5006 County Road 214 N",
+        "SchoolType": "Elem_High",
+        "SchoolOwne": "PrivNone",
+        "Notes": null,
+        "SchoolID": 43,
+        "GlobalID": "{6E4D8553-0B9C-4417-A780-744F9910519F}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.93405598391179, 29.800118083302099]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 44,
+        "NAME": "Cross-walk Center For Youth & Comm Devel",
+        "Address": "50 SE 75th Street",
+        "SchoolType": "Elem_High",
+        "SchoolOwne": "PrivNone",
+        "Notes": null,
+        "SchoolID": 44,
+        "GlobalID": "{2EE20ED1-B1AB-414C-85D9-7F7AC84F2A60}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.046878300158198, 29.825877505217093]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 45,
+        "NAME": "Congregational Holiness Church School",
+        "Address": "2079 State Road 16 W",
+        "SchoolType": "Elem_High",
+        "SchoolOwne": "PrivNone",
+        "Notes": null,
+        "SchoolID": 45,
+        "GlobalID": "{24116662-0544-44D3-B08D-4351F0C7E87C}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.716620861631711, 29.982788905308045]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 46,
+        "NAME": "Black Creek Christian School",
+        "Address": "3216 County Road 218 E",
+        "SchoolType": "Elem_High",
+        "SchoolOwne": "PrivNone",
+        "Notes": null,
+        "SchoolID": 46,
+        "GlobalID": "{E0B2F4EA-F304-42C5-ADD4-C2F224A0FE61}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.819585804396823, 30.033230471173358]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 47,
+        "NAME": "Russell Christian Academy",
+        "Address": "2299 Sandridge Rd",
+        "SchoolType": "Elem_High",
+        "SchoolOwne": "PrivNone",
+        "Notes": null,
+        "SchoolID": 47,
+        "GlobalID": "{FC0DFA61-A181-4BF4-BA9E-587EBF603742}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.759580727386563, 30.049693524148957]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 48,
+        "NAME": "Cinnamon St Baptist Church Academy",
+        "Address": "29 Cinnamon St",
+        "SchoolType": "Other",
+        "SchoolOwne": "PrivNone",
+        "Notes": null,
+        "SchoolID": 48,
+        "GlobalID": "{75F8A43C-AC21-44CD-807A-D74304497DC4}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.902233161148928, 30.064602909169249]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 49,
+        "NAME": "Calvary Christian Academy",
+        "Address": "1532 Long Bay Rd",
+        "SchoolType": "Elem_High",
+        "SchoolOwne": "PrivNone",
+        "Notes": null,
+        "SchoolID": 49,
+        "GlobalID": "{2D203EE2-71FE-4CC5-86F9-257F9ADA6645}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.86529625415325, 30.098482110175301]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 50,
+        "NAME": "Agape' Christian School",
+        "Address": "2713 County Road 220",
+        "SchoolType": "Elem_High",
+        "SchoolOwne": "PrivNone",
+        "Notes": null,
+        "SchoolID": 50,
+        "GlobalID": "{84F306C1-44FD-4417-95C0-EAD9FDF2CE53}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.787422295193863, 30.100186578265433]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 51,
+        "NAME": "Christian Home Academy",
+        "Address": "1965 Cedar River Ct",
+        "SchoolType": "Elem_High",
+        "SchoolOwne": "PrivNone",
+        "Notes": null,
+        "SchoolID": 51,
+        "GlobalID": "{4045048A-B2FD-4A7A-95AC-58BC151B254A}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.739413392439943, 30.099554509469726]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 52,
+        "NAME": "Madeira Christian Academy",
+        "Address": "1650 Blanding Blvd",
+        "SchoolType": "Elem_Mid",
+        "SchoolOwne": "PrivNone",
+        "Notes": null,
+        "SchoolID": 52,
+        "GlobalID": "{DED71864-C471-4740-A38B-F20BB9C55E18}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.820032557419964, 30.111940701420902]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 53,
+        "NAME": "Annunciation Catholic School",
+        "Address": "1610 Blanding Blvd",
+        "SchoolType": "Elem_Mid",
+        "SchoolOwne": "PrivNone",
+        "Notes": null,
+        "SchoolID": 53,
+        "GlobalID": "{57E8E570-C0C6-4410-BE47-2130DA1E096F}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.817733729889895, 30.113708697556273]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 54,
+        "NAME": "Pinewood Christian Academy",
+        "Address": "198 Knight Boxx Rd",
+        "SchoolType": "Elem_Mid",
+        "SchoolOwne": "PrivNone",
+        "Notes": null,
+        "SchoolID": 54,
+        "GlobalID": "{147E77B4-7073-4757-9342-9008F3A8D501}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.799309673885276, 30.110300508558531]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 56,
+        "NAME": "Citizens High School",
+        "Address": "188 College Dr",
+        "SchoolType": "High",
+        "SchoolOwne": "PrivNone",
+        "Notes": null,
+        "SchoolID": 56,
+        "GlobalID": "{E023D928-CF46-494C-A61D-C7CD2E6B1A47}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.776211273632143, 30.125499769860028]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 57,
+        "NAME": "Heritage Christian Academy",
+        "Address": "4325 Highway 17",
+        "SchoolType": "Other",
+        "SchoolOwne": "PrivNone",
+        "Notes": null,
+        "SchoolID": 57,
+        "GlobalID": "{BD3FDEAF-156C-4D6B-8CD2-832B443B52A0}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.70349051461649, 30.119334122400343]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 59,
+        "NAME": "Faith Christian Academy",
+        "Address": "997 Blanding Bv",
+        "SchoolType": "Elem_High",
+        "SchoolOwne": "PrivNone",
+        "Notes": null,
+        "SchoolID": 59,
+        "GlobalID": "{9235E46F-D4A7-4A49-9EC6-D034FEA797C4}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.775808096381212, 30.13617454988886]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 60,
+        "NAME": "Christian Home Academy",
+        "Address": "16 College Drive",
+        "SchoolType": "Elem_High",
+        "SchoolOwne": "PrivNone",
+        "Notes": null,
+        "SchoolID": 0,
+        "GlobalID": "{D67BA91C-7F2A-4E28-B484-B1246D7FF777}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.774478725906022, 30.136691794489636]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 61,
+        "NAME": "Faith Christian Academy",
+        "Address": "546 Harrison Av",
+        "SchoolType": "Other",
+        "SchoolOwne": "PrivNone",
+        "Notes": null,
+        "SchoolID": 61,
+        "GlobalID": "{3FFE5FA0-BA2C-4471-B82A-6343B3758CCD}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.773758658343468, 30.148053442100878]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 62,
+        "NAME": "The Broach School Of Orange Park",
+        "Address": "772 Foxridge Center Dr",
+        "SchoolType": "Elem_High",
+        "SchoolOwne": "PrivNone",
+        "Notes": null,
+        "SchoolID": 62,
+        "GlobalID": "{190778D3-A4F2-4069-9164-6AC9DBC21DBA}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.761483058685243, 30.146837741551337]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 63,
+        "NAME": "Kenterbie Academy",
+        "Address": "752b Blanding Bv",
+        "SchoolType": "Other",
+        "SchoolOwne": "PrivNone",
+        "Notes": null,
+        "SchoolID": 63,
+        "GlobalID": "{E170378B-54DD-4698-BE2A-C64CEC685D6B}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.76181014872904, 30.14570093900485]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 64,
+        "NAME": "Orange Park Kindergarten",
+        "Address": "3050 Moody Rd",
+        "SchoolType": "Other",
+        "SchoolOwne": "PrivNone",
+        "Notes": null,
+        "SchoolID": 64,
+        "GlobalID": "{80B829EF-9B3E-4409-AC7F-4860F205D85E}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.754857121007461, 30.144421412647468]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 65,
+        "NAME": "Sonlight Christian Academy",
+        "Address": "120 Suzanne Av",
+        "SchoolType": "Other",
+        "SchoolOwne": "PrivNone",
+        "Notes": null,
+        "SchoolID": 65,
+        "GlobalID": "{FB78D3B4-07BA-43A6-80E8-1A328CB8B4DC}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.748248443260564, 30.150882192182742]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 67,
+        "NAME": "Center Academy Orange Park",
+        "Address": "2171 Kingsley Ave",
+        "SchoolType": "Mid",
+        "SchoolOwne": "PrivSACS",
+        "Notes": null,
+        "SchoolID": 67,
+        "GlobalID": "{4EE16182-69AA-42C3-BA58-6DA17412EC71}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.743766374012978, 30.164884942350408]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 68,
+        "NAME": "Lighthouse Christian School",
+        "Address": "1542 Kingsley Av",
+        "SchoolType": "Elem_High",
+        "SchoolOwne": "PrivNone",
+        "Notes": null,
+        "SchoolID": 68,
+        "GlobalID": "{9EF4A4DB-E6E3-4439-BF89-569AFE13D85C}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.727587342774811, 30.163641554697911]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 69,
+        "NAME": "Orange Park Performing Arts Academy",
+        "Address": "1324 Kingsley Av",
+        "SchoolType": "Elem_High",
+        "SchoolOwne": "PrivFDOE",
+        "Notes": "formerlly Orange Park Christian Academy",
+        "SchoolID": 69,
+        "GlobalID": "{17A3D007-E13B-455C-A1FB-5FD7EC196AE9}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.721984380752161, 30.164334801961317]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 70,
+        "NAME": "Grace Episcopal Day School",
+        "Address": "156 Kingsley Av",
+        "SchoolType": "Elem_Mid",
+        "SchoolOwne": "PrivFCIS",
+        "Notes": null,
+        "SchoolID": 70,
+        "GlobalID": "{461BD88D-CC34-4625-B748-97AB433B63F5}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.698823351955951, 30.16545507060842]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 71,
+        "NAME": "Wonderworks",
+        "Address": "152 Stowe Av",
+        "SchoolType": "Other",
+        "SchoolOwne": "PrivNone",
+        "Notes": null,
+        "SchoolID": 71,
+        "GlobalID": "{0269888D-75B5-41CF-8091-CE1A811E1099}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.698659783488608, 30.163955905731285]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 72,
+        "NAME": "The G.I.F.T.Ed Learning Center Inc.",
+        "Address": "1624 Smith St",
+        "SchoolType": "Elem_High",
+        "SchoolOwne": "PrivNone",
+        "Notes": null,
+        "SchoolID": 72,
+        "GlobalID": "{5B5B14D0-CDF3-471C-9E06-EC98EC597C75}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.703391301119737, 30.170022829794704]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 73,
+        "NAME": "King's Christian Academy",
+        "Address": "1365 Dolphin St",
+        "SchoolType": "Elem_High",
+        "SchoolOwne": "PrivNone",
+        "Notes": null,
+        "SchoolID": 73,
+        "GlobalID": "{3D91F3E7-E4A4-42BE-9E9C-1F61F680A202}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.726463445706685, 30.172315692960108]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 74,
+        "NAME": "Seven Bridges School",
+        "Address": "402 Loring Av",
+        "SchoolType": "Elem_High",
+        "SchoolOwne": "PrivFCIS",
+        "Notes": "formerlly Individualized Education Services",
+        "SchoolID": 74,
+        "GlobalID": "{81D2A7FC-A461-4465-97FF-1C4796C69006}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.703953119819644, 30.180156881128056]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 75,
+        "NAME": "Everest University",
+        "Address": "805 Wells Rd",
+        "SchoolType": "College",
+        "SchoolOwne": "PrivNone",
+        "Notes": null,
+        "SchoolID": 3132,
+        "GlobalID": "{8C7A24E9-A89B-4F8D-92F6-F18585762A11}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.706119931017369, 30.188784006338139]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 76,
+        "NAME": "Bright Start School",
+        "Address": "217 Wells Rd",
+        "SchoolType": "Other",
+        "SchoolOwne": "PrivNone",
+        "Notes": null,
+        "SchoolID": 76,
+        "GlobalID": "{7FAA3EA5-6F8F-4825-999F-BA0CCFA4DDA6}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.699809784198877, 30.185774738604717]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 440,
+        "NAME": "R",
+        "Address": "County Road 315",
+        "SchoolType": "Elem",
+        "SchoolOwne": "Prop",
+        "Notes": null,
+        "SchoolID": 77,
+        "GlobalID": "{281F1FBC-B9E9-4D37-84A0-910670D1DD38}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.733929001809528, 30.011744222966612]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 443,
+        "NAME": "Oakleaf High School",
+        "Address": "4035 Plantation Oaks Blvd",
+        "SchoolType": "High",
+        "SchoolOwne": "Pub",
+        "Notes": null,
+        "SchoolID": 80,
+        "GlobalID": "{0FF3D5B8-4B92-44A3-8B30-0B147AC434B5}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.833326781950149, 30.169509018252082]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 853,
+        "NAME": "Godard Day School",
+        "Address": "415 Meldrum Ln",
+        "SchoolType": "Elem",
+        "SchoolOwne": "PrivNone",
+        "Notes": null,
+        "SchoolID": 0,
+        "GlobalID": "{DB850D80-56EA-4681-A4AC-165F02D2AE38}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.81770747691121, 30.180468243338215]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 854,
+        "NAME": "Godard Day School",
+        "Address": "2280 Village Sq. Parkway",
+        "SchoolType": "Elem",
+        "SchoolOwne": "PrivNone",
+        "Notes": null,
+        "SchoolID": 0,
+        "GlobalID": "{422DBE30-1979-4BC9-99C8-E295ADCA5800}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.711280844324548, 30.08379515603793]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 855,
+        "NAME": "Primrose School of Fleming Island",
+        "Address": "2031 Town Center Blvd",
+        "SchoolType": "Elem",
+        "SchoolOwne": "PrivSACS",
+        "Notes": null,
+        "SchoolID": 0,
+        "GlobalID": "{54D68F99-8CAB-4709-8FAD-9EFD6F37FCC4}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.717070203367356, 30.085167213075572]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1253,
+        "NAME": "Lighthouse Christian School",
+        "Address": "2156 Loch Rane Blvd",
+        "SchoolType": "Elem_High",
+        "SchoolOwne": "PrivNone",
+        "Notes": null,
+        "SchoolID": 0,
+        "GlobalID": "{7E4A8007-A13B-41C8-B12C-74D4A08561E4}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.749994989608496, 30.164112426248341]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1254,
+        "NAME": "CHA Educational Testing & Tutoring",
+        "Address": "409 Walnut St",
+        "SchoolType": "Elem_High",
+        "SchoolOwne": "PrivNone",
+        "Notes": "DOE Also St Jude Academy",
+        "SchoolID": 0,
+        "GlobalID": "{1A8F2E08-720C-4A53-BB08-BC445F889C18}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.679702372769327, 29.993601084425848]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1255,
+        "NAME": "Seamark Ranch, Inc",
+        "Address": "3631 Seamark Ranch Rd",
+        "SchoolType": "Elem_Mid",
+        "SchoolOwne": "PrivNone",
+        "Notes": null,
+        "SchoolID": 0,
+        "GlobalID": "{C78E05B1-8575-45B8-8955-0B72CE0D0579}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.856577582244711, 29.981476755975066]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1655,
+        "NAME": "Faith Christian School",
+        "Address": "5040 County Road 218",
+        "SchoolType": "Elem_High",
+        "SchoolOwne": "PrivNone",
+        "Notes": null,
+        "SchoolID": 0,
+        "GlobalID": "{6BA88361-3746-42C5-9584-2FA7559E6887}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.940579033832108, 30.084845020835989]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1656,
+        "NAME": "North Florida Institute",
+        "Address": "560 Wells Rd",
+        "SchoolType": "College",
+        "SchoolOwne": "PrivNone",
+        "Notes": null,
+        "SchoolID": 2090,
+        "GlobalID": "{9010ED60-28E6-4528-A9EE-C1B7A221161D}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.706495462509523, 30.18555273894577]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2055,
+        "NAME": "St Johns River State College",
+        "Address": "283 College Dr",
+        "SchoolType": "College",
+        "SchoolOwne": "Pub",
+        "Notes": null,
+        "SchoolID": 0,
+        "GlobalID": "{0D8C849F-93EC-4D6D-AAFB-D30F570DB584}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.774443639461822, 30.117528865297881]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2455,
+        "NAME": "Plantation Oaks Elementary",
+        "Address": "4150 Plantion Oaks Blvd",
+        "SchoolType": "Elem",
+        "SchoolOwne": "Pub",
+        "Notes": null,
+        "SchoolID": 81,
+        "GlobalID": "{7A53328E-2921-4768-9C67-BFB270F6D2E5}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.840709482826625, 30.178695726709812]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3264,
+        "NAME": "Florida Youth Challenge Academy",
+        "Address": "5629 State Road 16 West Bldg 3800",
+        "SchoolType": "High",
+        "SchoolOwne": "Pub",
+        "Notes": "http://www.ngycp.org/site/state/fl/node/2262",
+        "SchoolID": 20,
+        "GlobalID": "{337C3020-FC96-4068-9D76-F3400FB983FA}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.985103022219135, 29.97848139816287]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3665,
+        "NAME": "HighPoint Christian Acadamy",
+        "Address": "84 Knight Boxx Rd",
+        "SchoolType": "Elem_High",
+        "SchoolOwne": "PrivSACS",
+        "Notes": null,
+        "SchoolID": 0,
+        "GlobalID": "{BA959EA3-C29E-4033-A148-7B02A0617DF4}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.798478106806257, 30.118126497132938]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3666,
+        "NAME": "The Broach School Orange Park",
+        "Address": "1909 Debarry Av",
+        "SchoolType": "Elem_High",
+        "SchoolOwne": "PrivSACS",
+        "Notes": null,
+        "SchoolID": 0,
+        "GlobalID": "{96C128E8-D2D8-4CEE-86B4-59375DA2909D}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.720109895407333, 30.166753337694171]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3668,
+        "NAME": "Lighthouse Learning Center",
+        "Address": "550 Kingsley Av",
+        "SchoolType": "Other",
+        "SchoolOwne": "PrivFDOE",
+        "Notes": null,
+        "SchoolID": 0,
+        "GlobalID": "{D4DFEF6C-7259-4D36-BA78-83629768A953}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.705530704506501, 30.164497183852131]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3669,
+        "NAME": "Clay County Virtual Academy",
+        "Address": "2306 Kingsley Av",
+        "SchoolType": "Elem_High",
+        "SchoolOwne": "Pub",
+        "Notes": null,
+        "SchoolID": 0,
+        "GlobalID": "{4077AAFD-6520-4D60-A89A-5B445544BA2C}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.746451078294768, 30.163751771850826]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3670,
+        "NAME": "Clay County Center for Adult & Comm Ed",
+        "Address": "2306 Kingsley Av",
+        "SchoolType": "Other",
+        "SchoolOwne": "Pub",
+        "Notes": null,
+        "SchoolID": 0,
+        "GlobalID": "{2BC50DC6-9F0F-4663-9241-C2FE8587DCF2}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.746851535981463, 30.163767394292215]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 4065,
+        "NAME": "Clay Charter Academy",
+        "Address": "1417 Red Apple Road",
+        "SchoolType": "Elem_Mid",
+        "SchoolOwne": "Priv",
+        "Notes": "www.claycharter.org",
+        "SchoolID": 0,
+        "GlobalID": "{3A42FE20-8724-4068-8AE5-212233147CF6}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.859817919407277, 30.12348748539053]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 4066,
+        "NAME": "Discovery Oaks Elementary",
+        "Address": "950 Oakleaf Plantation Pkwy",
+        "SchoolType": "Elem",
+        "SchoolOwne": "Pub",
+        "Notes": null,
+        "SchoolID": 0,
+        "GlobalID": "{D81D9A8D-B8B6-4708-BDF1-D35F51EE3609}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.844333383327168, 30.162625132947902]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 4067,
+        "NAME": "PP",
+        "Address": "Old Hard Rd",
+        "SchoolType": "Mid",
+        "SchoolOwne": "Prop",
+        "Notes": null,
+        "SchoolID": 0,
+        "GlobalID": "{04D7B69F-A934-4848-BC44-F9510CB217A8}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.721946563113761, 30.09023375005571]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 4466,
+        "NAME": "QQ",
+        "Address": "Saratoga Springs",
+        "SchoolType": "Mid",
+        "SchoolOwne": "Prop",
+        "Notes": null,
+        "SchoolID": 0,
+        "GlobalID": "{B367C697-9531-4EEC-A56E-7EE41ABEB461}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.76337183322434, 30.020356195408272]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 4467,
+        "NAME": "B",
+        "Address": "Saratoga Springs",
+        "SchoolType": "Elem",
+        "SchoolOwne": "Prop",
+        "Notes": null,
+        "SchoolID": 0,
+        "GlobalID": "{167D63CA-E350-4130-8DFC-0BE5C3799B66}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.763446235631008, 30.016553731334216]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 4868,
+        "NAME": "Mound Street Christian Academy (0637)",
+        "Address": "1920 Mound St",
+        "SchoolType": "Elem_High",
+        "SchoolOwne": "PrivFDOE",
+        "Notes": null,
+        "SchoolID": 0,
+        "GlobalID": "{A086CBA5-7141-4BF8-B27E-4622A4A7642E}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.705043374259603, 30.166803492119374]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 4869,
+        "NAME": "Life Christian School",
+        "Address": "4524 Chipmunk Road",
+        "SchoolType": "Elem_High",
+        "SchoolOwne": "PrivFDOE",
+        "Notes": null,
+        "SchoolID": 0,
+        "GlobalID": "{14767461-EBAE-461F-849C-1F48145D94B7}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.902315268627447, 30.028190614736314]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 4468,
+        "NAME": "A",
+        "Address": "Two Creeks Area",
+        "SchoolType": "Elem",
+        "SchoolOwne": "Pub",
+        "Notes": null,
+        "SchoolID": 0,
+        "GlobalID": "{9EC1720D-0E2F-4F57-8065-C5C57F7B0804}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.85306641811674, 30.136023998030325]
+      }
+    }
+  ]
+}
